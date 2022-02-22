@@ -7,6 +7,7 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff
+.idea/
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
@@ -764,3 +765,5 @@ json_data/game96.json
 json_data/game97.json
 json_data/game98.json
 json_data/game99.json
+
+.idea
