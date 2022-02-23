@@ -766,3 +766,6 @@ json_data/game97.json
 json_data/game98.json
 json_data/game99.json
 main_as_jupyterfile.ipynb
+
+# Notebook Checkpoints
+.ipynb_checkpoints/
