@@ -1,4 +1,4 @@
-# This script fetching results from range between:
+# This script is fetching results from range between:
 See example below
 ```
 https://liiga.fi/api/v1/games/2022/1
