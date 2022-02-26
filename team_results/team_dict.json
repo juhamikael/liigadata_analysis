@@ -1,0 +1,7002 @@
+{
+  "HIFK": {
+    "team_name:": "HIFK",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 14,
+          "Date": "2021-09-15",
+          "Time": "15:30",
+          "Home": "Hifk",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 25,
+          "Date": "2021-09-18",
+          "Time": "14:00",
+          "Home": "Hifk",
+          "Away": "Sport",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 37,
+          "Date": "2021-09-23",
+          "Time": "15:30",
+          "Home": "Hifk",
+          "Away": "Tps",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 49,
+          "Date": "2021-09-28",
+          "Time": "15:30",
+          "Home": "Hifk",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 63,
+          "Date": "2021-10-02",
+          "Time": "14:00",
+          "Home": "Hifk",
+          "Away": "Hpk",
+          "Home team goals": 6,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 73,
+          "Date": "2021-10-08",
+          "Time": "15:30",
+          "Home": "Hifk",
+          "Away": "Kärpät",
+          "Home team goals": 0,
+          "Away team goals": 2,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 89,
+          "Date": "2021-10-14",
+          "Time": "15:30",
+          "Home": "Hifk",
+          "Away": "Tappara",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 130,
+          "Date": "2021-10-30",
+          "Time": "14:00",
+          "Home": "Hifk",
+          "Away": "Ilves",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 136,
+          "Date": "2021-11-02",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Pelicans",
+          "Home team goals": 5,
+          "Away team goals": 1,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 144,
+          "Date": "2021-11-05",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Sport",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 156,
+          "Date": "2021-11-15",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Kookoo",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 172,
+          "Date": "2021-11-24",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Saipa",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 179,
+          "Date": "2021-11-26",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Kärpät",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 217,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Hifk",
+          "Away": "Jyp",
+          "Home team goals": 6,
+          "Away team goals": 4,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 225,
+          "Date": "2021-12-15",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Kalpa",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 244,
+          "Date": "2021-12-27",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 262,
+          "Date": "2022-01-06",
+          "Time": "15:00",
+          "Home": "Hifk",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 302,
+          "Date": "2022-01-14",
+          "Time": "15:00",
+          "Home": "Hifk",
+          "Away": "Tappara",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 343,
+          "Date": "2022-02-08",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Hpk",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 337,
+          "Date": "2022-02-05",
+          "Time": "15:00",
+          "Home": "Hifk",
+          "Away": "Pelicans",
+          "Home team goals": 0,
+          "Away team goals": 1,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 349,
+          "Date": "2022-02-10",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Ässät",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 362,
+          "Date": "2022-02-16",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Jukurit",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Hifk"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "HPK": {
+    "team_name:": "HPK",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 2,
+          "Date": "2021-09-10",
+          "Time": "15:30",
+          "Home": "Hpk",
+          "Away": "Tappara",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 20,
+          "Date": "2021-09-17",
+          "Time": "15:30",
+          "Home": "Hpk",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 42,
+          "Date": "2021-09-25",
+          "Time": "15:30",
+          "Home": "Hpk",
+          "Away": "Hifk",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 56,
+          "Date": "2022-02-25",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Kärpät",
+          "Home team goals": 2,
+          "Away team goals": 0,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 68,
+          "Date": "2021-10-06",
+          "Time": "15:30",
+          "Home": "Hpk",
+          "Away": "Jukurit",
+          "Home team goals": 4,
+          "Away team goals": 0,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 78,
+          "Date": "2021-10-09",
+          "Time": "14:00",
+          "Home": "Hpk",
+          "Away": "Hifk",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 106,
+          "Date": "2021-10-22",
+          "Time": "15:30",
+          "Home": "Hpk",
+          "Away": "Saipa",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 131,
+          "Date": "2021-10-30",
+          "Time": "14:00",
+          "Home": "Hpk",
+          "Away": "Kalpa",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 142,
+          "Date": "2021-11-04",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 149,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Jyp",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 161,
+          "Date": "2021-11-19",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Sport",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 173,
+          "Date": "2021-11-24",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Kookoo",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 194,
+          "Date": "2021-12-02",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 201,
+          "Date": "2021-12-04",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Tps",
+          "Home team goals": 0,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 218,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Ilves",
+          "Home team goals": 5,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 249,
+          "Date": "2021-12-30",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Kärpät",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 283,
+          "Date": "2022-01-14",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Lukko",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 312,
+          "Date": "2022-01-11",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 326,
+          "Date": "2022-02-02",
+          "Time": "16:00",
+          "Home": "Hpk",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 338,
+          "Date": "2022-02-05",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Tappara",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 363,
+          "Date": "2022-02-16",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Pelicans",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 369,
+          "Date": "2022-02-18",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Hifk",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 381,
+          "Date": "2022-02-23",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Jyp",
+          "Home team goals": 5,
+          "Away team goals": 3,
+          "Winner": "Hpk"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "Ilves": {
+    "team_name:": "Ilves",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 31,
+          "Date": "2021-09-21",
+          "Time": "15:30",
+          "Home": "Ilves",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 38,
+          "Date": "2021-09-24",
+          "Time": "15:30",
+          "Home": "Ilves",
+          "Away": "Hpk",
+          "Home team goals": 6,
+          "Away team goals": 1,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 50,
+          "Date": "2021-09-29",
+          "Time": "15:30",
+          "Home": "Ilves",
+          "Away": "Ässät",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 64,
+          "Date": "2021-10-02",
+          "Time": "14:00",
+          "Home": "Ilves",
+          "Away": "Sport",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 79,
+          "Date": "2021-10-09",
+          "Time": "13:00",
+          "Home": "Ilves",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 90,
+          "Date": "2021-10-15",
+          "Time": "15:30",
+          "Home": "Ilves",
+          "Away": "Jukurit",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 100,
+          "Date": "2021-10-20",
+          "Time": "15:30",
+          "Home": "Ilves",
+          "Away": "Hifk",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 110,
+          "Date": "2021-10-23",
+          "Time": "14:00",
+          "Home": "Ilves",
+          "Away": "Kalpa",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 124,
+          "Date": "2021-10-29",
+          "Time": "15:30",
+          "Home": "Ilves",
+          "Away": "Tappara",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 143,
+          "Date": "2021-11-04",
+          "Time": "16:30",
+          "Home": "Ilves",
+          "Away": "Kookoo",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 150,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Ilves",
+          "Away": "Lukko",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 165,
+          "Date": "2021-11-20",
+          "Time": "15:00",
+          "Home": "Ilves",
+          "Away": "Jyp",
+          "Home team goals": 6,
+          "Away team goals": 1,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 180,
+          "Date": "2021-11-26",
+          "Time": "16:30",
+          "Home": "Ilves",
+          "Away": "Tps",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 200,
+          "Date": "2021-12-04",
+          "Time": "14:00",
+          "Home": "Ilves",
+          "Away": "Tappara",
+          "Home team goals": 0,
+          "Away team goals": 7,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 224,
+          "Date": "2021-12-13",
+          "Time": "16:30",
+          "Home": "Ilves",
+          "Away": "Kärpät",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 264,
+          "Date": "2022-01-07",
+          "Time": "16:30",
+          "Home": "Ilves",
+          "Away": "Ässät",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 292,
+          "Date": "2022-01-17",
+          "Time": "15:00",
+          "Home": "Ilves",
+          "Away": "Kärpät",
+          "Home team goals": 4,
+          "Away team goals": 0,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 286,
+          "Date": "2022-01-15",
+          "Time": "13:00",
+          "Home": "Ilves",
+          "Away": "Pelicans",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 330,
+          "Date": "2022-02-03",
+          "Time": "16:00",
+          "Home": "Ilves",
+          "Away": "Jyp",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 339,
+          "Date": "2022-02-05",
+          "Time": "15:00",
+          "Home": "Ilves",
+          "Away": "Kookoo",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 373,
+          "Date": "2022-02-19",
+          "Time": "12:30",
+          "Home": "Ilves",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 380,
+          "Date": "2022-02-22",
+          "Time": "16:00",
+          "Home": "Ilves",
+          "Away": "Tps",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 386,
+          "Date": "2022-02-25",
+          "Time": "16:30",
+          "Home": "Ilves",
+          "Away": "Tappara",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Ilves"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "Jukurit": {
+    "team_name:": "Jukurit",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 3,
+          "Date": "2021-09-10",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Kalpa",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 15,
+          "Date": "2021-09-15",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 6,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 32,
+          "Date": "2021-09-22",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Ässät",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 57,
+          "Date": "2021-10-01",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 80,
+          "Date": "2021-10-09",
+          "Time": "14:00",
+          "Home": "Jukurit",
+          "Away": "Tappara",
+          "Home team goals": 2,
+          "Away team goals": 8,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 85,
+          "Date": "2021-10-13",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Jyp",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 99,
+          "Date": "2021-10-16",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Hifk",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 107,
+          "Date": "2021-10-22",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Kookoo",
+          "Home team goals": 0,
+          "Away team goals": 2,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 117,
+          "Date": "2021-10-26",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 125,
+          "Date": "2021-10-29",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Kärpät",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 137,
+          "Date": "2021-11-03",
+          "Time": "16:30",
+          "Home": "Jukurit",
+          "Away": "Lukko",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 151,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Jukurit",
+          "Away": "Sport",
+          "Home team goals": 2,
+          "Away team goals": 0,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 162,
+          "Date": "2021-11-19",
+          "Time": "16:30",
+          "Home": "Jukurit",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 185,
+          "Date": "2021-11-27",
+          "Time": "14:00",
+          "Home": "Jukurit",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 204,
+          "Date": "2021-12-04",
+          "Time": "16:30",
+          "Home": "Jukurit",
+          "Away": "Saipa",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 213,
+          "Date": "2021-12-10",
+          "Time": "16:30",
+          "Home": "Jukurit",
+          "Away": "Hpk",
+          "Home team goals": 6,
+          "Away team goals": 0,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 230,
+          "Date": "2022-01-21",
+          "Time": "15:00",
+          "Home": "Jukurit",
+          "Away": "Hpk",
+          "Home team goals": 1,
+          "Away team goals": 5,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 239,
+          "Date": "2021-12-26",
+          "Time": "15:00",
+          "Home": "Jukurit",
+          "Away": "Tappara",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 250,
+          "Date": "2021-12-30",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Jyp",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 276,
+          "Date": "2022-01-12",
+          "Time": "15:00",
+          "Home": "Jukurit",
+          "Away": "Ässät",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 304,
+          "Date": "2022-01-22",
+          "Time": "15:00",
+          "Home": "Jukurit",
+          "Away": "Jyp",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 320,
+          "Date": "2022-01-29",
+          "Time": "13:30",
+          "Home": "Jukurit",
+          "Away": "Pelicans",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 340,
+          "Date": "2022-02-05",
+          "Time": "13:00",
+          "Home": "Jukurit",
+          "Away": "Sport",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 344,
+          "Date": "2022-02-08",
+          "Time": "16:30",
+          "Home": "Jukurit",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 354,
+          "Date": "2022-02-12",
+          "Time": "15:00",
+          "Home": "Jukurit",
+          "Away": "Kookoo",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "JYP": {
+    "team_name:": "JYP",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 4,
+          "Date": "2021-09-10",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 16,
+          "Date": "2021-09-15",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Tps",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 26,
+          "Date": "2021-09-18",
+          "Time": "14:00",
+          "Home": "Jyp",
+          "Away": "Kookoo",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 39,
+          "Date": "2021-09-24",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Saipa",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 71,
+          "Date": "2021-10-07",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 81,
+          "Date": "2021-10-09",
+          "Time": "14:00",
+          "Home": "Jyp",
+          "Away": "Kalpa",
+          "Home team goals": 5,
+          "Away team goals": 4,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 91,
+          "Date": "2021-10-15",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 101,
+          "Date": "2021-10-20",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Kookoo",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 119,
+          "Date": "2021-10-27",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 132,
+          "Date": "2021-10-30",
+          "Time": "14:00",
+          "Home": "Jyp",
+          "Away": "Lukko",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 138,
+          "Date": "2021-11-03",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 6,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 145,
+          "Date": "2021-11-05",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Ässät",
+          "Home team goals": 1,
+          "Away team goals": 5,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 159,
+          "Date": "2021-11-18",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Kärpät",
+          "Home team goals": 1,
+          "Away team goals": 10,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 174,
+          "Date": "2021-11-24",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Jukurit",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 202,
+          "Date": "2021-12-04",
+          "Time": "15:00",
+          "Home": "Jyp",
+          "Away": "Sport",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 207,
+          "Date": "2021-12-08",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Pelicans",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 214,
+          "Date": "2021-12-10",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 231,
+          "Date": "2021-12-17",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Tappara",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 245,
+          "Date": "2021-12-28",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 294,
+          "Date": "2022-01-19",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Hpk",
+          "Home team goals": 0,
+          "Away team goals": 6,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 313,
+          "Date": "2021-11-26",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Sport",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 333,
+          "Date": "2022-02-04",
+          "Time": "15:00",
+          "Home": "Jyp",
+          "Away": "Hpk",
+          "Home team goals": 1,
+          "Away team goals": 5,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 387,
+          "Date": "2022-02-25",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Ässät",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Jyp"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "KalPa": {
+    "team_name:": "KalPa",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 29,
+          "Date": "2021-09-18",
+          "Time": "15:30",
+          "Home": "Kalpa",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 43,
+          "Date": "2021-09-25",
+          "Time": "14:00",
+          "Home": "Kalpa",
+          "Away": "Ilves",
+          "Home team goals": 5,
+          "Away team goals": 0,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 51,
+          "Date": "2021-09-29",
+          "Time": "15:30",
+          "Home": "Kalpa",
+          "Away": "Hpk",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 65,
+          "Date": "2021-10-02",
+          "Time": "14:00",
+          "Home": "Kalpa",
+          "Away": "Tappara",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 74,
+          "Date": "2021-10-08",
+          "Time": "15:30",
+          "Home": "Kalpa",
+          "Away": "Tps",
+          "Home team goals": 0,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 86,
+          "Date": "2021-10-13",
+          "Time": "15:30",
+          "Home": "Kalpa",
+          "Away": "Kookoo",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 102,
+          "Date": "2021-10-20",
+          "Time": "15:30",
+          "Home": "Kalpa",
+          "Away": "Ässät",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 126,
+          "Date": "2021-10-29",
+          "Time": "15:30",
+          "Home": "Kalpa",
+          "Away": "Hifk",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 139,
+          "Date": "2021-11-03",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 163,
+          "Date": "2021-11-19",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Lukko",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 182,
+          "Date": "2021-11-26",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Jukurit",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 196,
+          "Date": "2021-12-03",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Jyp",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 206,
+          "Date": "2021-12-07",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Kookoo",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 219,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Kalpa",
+          "Away": "Sport",
+          "Home team goals": 5,
+          "Away team goals": 0,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 232,
+          "Date": "2021-12-17",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Pelicans",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 280,
+          "Date": "2022-01-13",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Ilves",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 321,
+          "Date": "2022-01-29",
+          "Time": "13:00",
+          "Home": "Kalpa",
+          "Away": "Jyp",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 345,
+          "Date": "2022-02-08",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 351,
+          "Date": "2022-02-11",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Jukurit",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 370,
+          "Date": "2022-02-18",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Kärpät",
+          "Home team goals": 6,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 374,
+          "Date": "2022-02-19",
+          "Time": "15:00",
+          "Home": "Kalpa",
+          "Away": "Kärpät",
+          "Home team goals": 4,
+          "Away team goals": 0,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 388,
+          "Date": "2022-02-25",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Lukko",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Kalpa"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "KooKoo": {
+    "team_name:": "KooKoo",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 9,
+          "Date": "2021-09-11",
+          "Time": "14:00",
+          "Home": "Kookoo",
+          "Away": "Saipa",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 21,
+          "Date": "2021-09-17",
+          "Time": "15:30",
+          "Home": "Kookoo",
+          "Away": "Jyp",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 33,
+          "Date": "2021-09-22",
+          "Time": "15:30",
+          "Home": "Kookoo",
+          "Away": "Kalpa",
+          "Home team goals": 7,
+          "Away team goals": 4,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 52,
+          "Date": "2021-09-29",
+          "Time": "15:30",
+          "Home": "Kookoo",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 69,
+          "Date": "2021-10-06",
+          "Time": "15:30",
+          "Home": "Kookoo",
+          "Away": "Kärpät",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 82,
+          "Date": "2021-10-09",
+          "Time": "14:00",
+          "Home": "Kookoo",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 92,
+          "Date": "2021-10-15",
+          "Time": "15:30",
+          "Home": "Kookoo",
+          "Away": "Sport",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 111,
+          "Date": "2021-10-23",
+          "Time": "14:00",
+          "Home": "Kookoo",
+          "Away": "Tappara",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 127,
+          "Date": "2021-10-29",
+          "Time": "15:30",
+          "Home": "Kookoo",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 152,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 166,
+          "Date": "2021-11-20",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Jukurit",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 186,
+          "Date": "2021-11-27",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 197,
+          "Date": "2021-12-03",
+          "Time": "16:30",
+          "Home": "Kookoo",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 208,
+          "Date": "2021-12-08",
+          "Time": "16:30",
+          "Home": "Kookoo",
+          "Away": "Hpk",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 220,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Lukko",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 240,
+          "Date": "2021-12-26",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Saipa",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 233,
+          "Date": "2021-12-17",
+          "Time": "16:30",
+          "Home": "Kookoo",
+          "Away": "Hifk",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 251,
+          "Date": "2021-12-30",
+          "Time": "16:30",
+          "Home": "Kookoo",
+          "Away": "Tappara",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 278,
+          "Date": "2022-02-23",
+          "Time": "16:30",
+          "Home": "Kookoo",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 314,
+          "Date": "2022-01-28",
+          "Time": "13:30",
+          "Home": "Kookoo",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 334,
+          "Date": "2022-02-04",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Kärpät",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 348,
+          "Date": "2022-02-09",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Tps",
+          "Home team goals": 5,
+          "Away team goals": 3,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 365,
+          "Date": "2022-02-16",
+          "Time": "16:30",
+          "Home": "Kookoo",
+          "Away": "Kalpa",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 375,
+          "Date": "2022-02-19",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Ässät",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Kookoo"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "Kärpät": {
+    "team_name:": "Kärpät",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 7,
+          "Date": "2021-09-11",
+          "Time": "13:00",
+          "Home": "Kärpät",
+          "Away": "Jyp",
+          "Home team goals": 6,
+          "Away team goals": 2,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 17,
+          "Date": "2021-09-15",
+          "Time": "15:30",
+          "Home": "Kärpät",
+          "Away": "Hpk",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 44,
+          "Date": "2021-09-25",
+          "Time": "14:00",
+          "Home": "Kärpät",
+          "Away": "Kookoo",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 53,
+          "Date": "2021-09-29",
+          "Time": "15:30",
+          "Home": "Kärpät",
+          "Away": "Sport",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 66,
+          "Date": "2021-10-02",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 84,
+          "Date": "2021-10-09",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Tps",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 94,
+          "Date": "2021-10-16",
+          "Time": "14:00",
+          "Home": "Kärpät",
+          "Away": "Hpk",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 115,
+          "Date": "2021-10-23",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 120,
+          "Date": "2021-10-27",
+          "Time": "15:30",
+          "Home": "Kärpät",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 146,
+          "Date": "2021-11-05",
+          "Time": "16:30",
+          "Home": "Kärpät",
+          "Away": "Kalpa",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 153,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Kalpa",
+          "Home team goals": 5,
+          "Away team goals": 4,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 167,
+          "Date": "2021-11-20",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 175,
+          "Date": "2021-12-04",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Ässät",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 189,
+          "Date": "2021-11-27",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Hifk",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 209,
+          "Date": "2021-12-08",
+          "Time": "16:30",
+          "Home": "Kärpät",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 221,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Tappara",
+          "Home team goals": 4,
+          "Away team goals": 6,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 243,
+          "Date": "2021-12-26",
+          "Time": "16:00",
+          "Home": "Kärpät",
+          "Away": "Jyp",
+          "Home team goals": 5,
+          "Away team goals": 1,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 246,
+          "Date": "2021-12-28",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Jukurit",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 258,
+          "Date": "2022-01-05",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Ilves",
+          "Home team goals": 5,
+          "Away team goals": 6,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 268,
+          "Date": "2022-01-08",
+          "Time": "13:00",
+          "Home": "Kärpät",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 297,
+          "Date": "2022-01-20",
+          "Time": "16:30",
+          "Home": "Kärpät",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 0,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 305,
+          "Date": "2022-01-22",
+          "Time": "13:00",
+          "Home": "Kärpät",
+          "Away": "Tps",
+          "Home team goals": 5,
+          "Away team goals": 4,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 346,
+          "Date": "2022-02-08",
+          "Time": "16:00",
+          "Home": "Kärpät",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 356,
+          "Date": "2022-02-12",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Saipa",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 389,
+          "Date": "2021-10-15",
+          "Time": "15:30",
+          "Home": "Kärpät",
+          "Away": "Hpk",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 434,
+          "Date": "2021-12-17",
+          "Time": "16:30",
+          "Home": "Kärpät",
+          "Away": "Sport",
+          "Home team goals": 0,
+          "Away team goals": 1,
+          "Winner": "Sport"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "Lukko": {
+    "team_name:": "Lukko",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 1,
+          "Date": "2021-09-09",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 12,
+          "Date": "2021-09-11",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Ässät",
+          "Home team goals": 5,
+          "Away team goals": 1,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 22,
+          "Date": "2021-09-17",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Kärpät",
+          "Home team goals": 5,
+          "Away team goals": 4,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 40,
+          "Date": "2021-09-24",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Tappara",
+          "Home team goals": 5,
+          "Away team goals": 4,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 58,
+          "Date": "2021-10-01",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Pelicans",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 83,
+          "Date": "2021-10-09",
+          "Time": "14:00",
+          "Home": "Lukko",
+          "Away": "Sport",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 95,
+          "Date": "2021-10-16",
+          "Time": "14:00",
+          "Home": "Lukko",
+          "Away": "Kalpa",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 116,
+          "Date": "2021-10-23",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Jukurit",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 118,
+          "Date": "2021-10-26",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Kookoo",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 147,
+          "Date": "2021-11-05",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 191,
+          "Date": "2021-12-01",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Hpk",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 203,
+          "Date": "2021-12-04",
+          "Time": "15:00",
+          "Home": "Lukko",
+          "Away": "Hifk",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 215,
+          "Date": "2021-12-10",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Ässät",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 226,
+          "Date": "2021-12-20",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Jyp",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 235,
+          "Date": "2021-12-17",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Tps",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 247,
+          "Date": "2021-12-28",
+          "Time": "15:00",
+          "Home": "Lukko",
+          "Away": "Kookoo",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 252,
+          "Date": "2021-12-30",
+          "Time": "15:00",
+          "Home": "Lukko",
+          "Away": "Ilves",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 269,
+          "Date": "2022-01-08",
+          "Time": "13:00",
+          "Home": "Lukko",
+          "Away": "Saipa",
+          "Home team goals": 6,
+          "Away team goals": 0,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 288,
+          "Date": "2022-01-15",
+          "Time": "13:00",
+          "Home": "Lukko",
+          "Away": "Kärpät",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 325,
+          "Date": "2022-02-01",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Jukurit",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 331,
+          "Date": "2022-02-03",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Kalpa",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Kalpa"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "Pelicans": {
+    "team_name:": "Pelicans",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 10,
+          "Date": "2021-09-11",
+          "Time": "14:00",
+          "Home": "Pelicans",
+          "Away": "Hifk",
+          "Home team goals": 3,
+          "Away team goals": 6,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 23,
+          "Date": "2021-09-17",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Tps",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 54,
+          "Date": "2021-09-29",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Jyp",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 67,
+          "Date": "2021-10-02",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 75,
+          "Date": "2021-10-08",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Kookoo",
+          "Home team goals": 2,
+          "Away team goals": 0,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 87,
+          "Date": "2021-10-13",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Ilves",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 103,
+          "Date": "2021-10-20",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Jukurit",
+          "Home team goals": 4,
+          "Away team goals": 7,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 108,
+          "Date": "2021-10-22",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Kärpät",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 128,
+          "Date": "2021-10-29",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Hpk",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 148,
+          "Date": "2021-11-05",
+          "Time": "16:30",
+          "Home": "Pelicans",
+          "Away": "Tappara",
+          "Home team goals": 1,
+          "Away team goals": 5,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 160,
+          "Date": "2021-11-18",
+          "Time": "16:30",
+          "Home": "Pelicans",
+          "Away": "Saipa",
+          "Home team goals": 5,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 168,
+          "Date": "2021-11-20",
+          "Time": "15:00",
+          "Home": "Pelicans",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 190,
+          "Date": "2022-01-18",
+          "Time": "15:00",
+          "Home": "Pelicans",
+          "Away": "Lukko",
+          "Home team goals": 1,
+          "Away team goals": 6,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 205,
+          "Date": "2021-12-04",
+          "Time": "16:30",
+          "Home": "Pelicans",
+          "Away": "Kookoo",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 227,
+          "Date": "2021-11-27",
+          "Time": "16:30",
+          "Home": "Pelicans",
+          "Away": "Saipa",
+          "Home team goals": 6,
+          "Away team goals": 4,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 237,
+          "Date": "2021-12-26",
+          "Time": "14:00",
+          "Home": "Pelicans",
+          "Away": "Hifk",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 284,
+          "Date": "2022-01-14",
+          "Time": "15:00",
+          "Home": "Pelicans",
+          "Away": "Kalpa",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 335,
+          "Date": "2022-02-04",
+          "Time": "13:00",
+          "Home": "Pelicans",
+          "Away": "Sport",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 352,
+          "Date": "2022-02-11",
+          "Time": "16:00",
+          "Home": "Pelicans",
+          "Away": "Tappara",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 368,
+          "Date": "2022-02-17",
+          "Time": "16:30",
+          "Home": "Pelicans",
+          "Away": "Tps",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 377,
+          "Date": "2022-02-19",
+          "Time": "15:00",
+          "Home": "Pelicans",
+          "Away": "Sport",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "SaiPa": {
+    "team_name:": "SaiPa",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 5,
+          "Date": "2021-09-10",
+          "Time": "15:30",
+          "Home": "Saipa",
+          "Away": "Kookoo",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 27,
+          "Date": "2021-09-18",
+          "Time": "14:00",
+          "Home": "Saipa",
+          "Away": "Hpk",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 45,
+          "Date": "2021-09-25",
+          "Time": "14:00",
+          "Home": "Saipa",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 55,
+          "Date": "2021-09-29",
+          "Time": "15:30",
+          "Home": "Saipa",
+          "Away": "Tappara",
+          "Home team goals": 0,
+          "Away team goals": 1,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 76,
+          "Date": "2021-10-08",
+          "Time": "15:30",
+          "Home": "Saipa",
+          "Away": "Ässät",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 96,
+          "Date": "2021-10-16",
+          "Time": "14:00",
+          "Home": "Saipa",
+          "Away": "Sport",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 104,
+          "Date": "2021-10-20",
+          "Time": "15:30",
+          "Home": "Saipa",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 112,
+          "Date": "2021-10-23",
+          "Time": "14:00",
+          "Home": "Saipa",
+          "Away": "Jyp",
+          "Home team goals": 5,
+          "Away team goals": 3,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 121,
+          "Date": "2021-10-27",
+          "Time": "15:30",
+          "Home": "Saipa",
+          "Away": "Ilves",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 129,
+          "Date": "2021-10-30",
+          "Time": "13:00",
+          "Home": "Saipa",
+          "Away": "Kärpät",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 157,
+          "Date": "2021-11-17",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Kalpa",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 171,
+          "Date": "2021-11-20",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 183,
+          "Date": "2021-11-26",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Pelicans",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 198,
+          "Date": "2021-12-03",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Jukurit",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 222,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Saipa",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 236,
+          "Date": "2021-12-17",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Ilves",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 253,
+          "Date": "2021-12-30",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 259,
+          "Date": "2022-01-05",
+          "Time": "15:00",
+          "Home": "Saipa",
+          "Away": "Hpk",
+          "Home team goals": 3,
+          "Away team goals": 6,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 281,
+          "Date": "2022-01-13",
+          "Time": "15:00",
+          "Home": "Saipa",
+          "Away": "Tappara",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 289,
+          "Date": "2022-01-15",
+          "Time": "15:00",
+          "Home": "Saipa",
+          "Away": "Hifk",
+          "Home team goals": 3,
+          "Away team goals": 7,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 322,
+          "Date": "2022-01-29",
+          "Time": "13:00",
+          "Home": "Saipa",
+          "Away": "Kookoo",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 332,
+          "Date": "2022-02-05",
+          "Time": "13:00",
+          "Home": "Saipa",
+          "Away": "Kärpät",
+          "Home team goals": 0,
+          "Away team goals": 5,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 366,
+          "Date": "2022-02-16",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Lukko",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 371,
+          "Date": "2022-02-18",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Ässät",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Ässät"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "Sport": {
+    "team_name:": "Sport",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 13,
+          "Date": "2021-09-11",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Tappara",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 24,
+          "Date": "2021-09-17",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 34,
+          "Date": "2021-09-22",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Lukko",
+          "Home team goals": 4,
+          "Away team goals": 0,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 41,
+          "Date": "2021-09-24",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Kookoo",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 59,
+          "Date": "2021-10-01",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Saipa",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 72,
+          "Date": "2021-10-07",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 88,
+          "Date": "2021-10-13",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Hpk",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 113,
+          "Date": "2021-10-23",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Ässät",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 133,
+          "Date": "2021-10-30",
+          "Time": "14:00",
+          "Home": "Sport",
+          "Away": "Pelicans",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 158,
+          "Date": "2021-11-17",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Kärpät",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 169,
+          "Date": "2021-11-20",
+          "Time": "15:00",
+          "Home": "Sport",
+          "Away": "Tappara",
+          "Home team goals": 0,
+          "Away team goals": 4,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 176,
+          "Date": "2021-11-24",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Pelicans",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 187,
+          "Date": "2021-11-27",
+          "Time": "15:00",
+          "Home": "Sport",
+          "Away": "Jyp",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 192,
+          "Date": "2021-12-01",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 216,
+          "Date": "2021-12-10",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Kärpät",
+          "Home team goals": 0,
+          "Away team goals": 4,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 241,
+          "Date": "2021-12-26",
+          "Time": "15:00",
+          "Home": "Sport",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 254,
+          "Date": "2021-12-30",
+          "Time": "15:00",
+          "Home": "Sport",
+          "Away": "Hifk",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 290,
+          "Date": "2022-01-15",
+          "Time": "13:00",
+          "Home": "Sport",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 309,
+          "Date": "2022-01-26",
+          "Time": "15:00",
+          "Home": "Sport",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 323,
+          "Date": "2022-01-29",
+          "Time": "13:00",
+          "Home": "Sport",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 328,
+          "Date": "2022-02-02",
+          "Time": "16:00",
+          "Home": "Sport",
+          "Away": "Tappara",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 353,
+          "Date": "2022-02-22",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Saipa",
+          "Home team goals": 7,
+          "Away team goals": 1,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 372,
+          "Date": "2021-12-15",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Jyp",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 390,
+          "Date": "2022-02-25",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "Tappara": {
+    "team_name:": "Tappara",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 3,
+          "Date": "2021-09-10",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Kalpa",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 1,
+          "Date": "2021-09-09",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 7,
+          "Date": "2021-09-11",
+          "Time": "13:00",
+          "Home": "Kärpät",
+          "Away": "Jyp",
+          "Home team goals": 6,
+          "Away team goals": 2,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 5,
+          "Date": "2021-09-10",
+          "Time": "15:30",
+          "Home": "Saipa",
+          "Away": "Kookoo",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 4,
+          "Date": "2021-09-10",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 2,
+          "Date": "2021-09-10",
+          "Time": "15:30",
+          "Home": "Hpk",
+          "Away": "Tappara",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 9,
+          "Date": "2021-09-11",
+          "Time": "14:00",
+          "Home": "Kookoo",
+          "Away": "Saipa",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 10,
+          "Date": "2021-09-11",
+          "Time": "14:00",
+          "Home": "Pelicans",
+          "Away": "Hifk",
+          "Home team goals": 3,
+          "Away team goals": 6,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 12,
+          "Date": "2021-09-11",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Ässät",
+          "Home team goals": 5,
+          "Away team goals": 1,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 11,
+          "Date": "2021-09-11",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Ilves",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 14,
+          "Date": "2021-09-15",
+          "Time": "15:30",
+          "Home": "Hifk",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 16,
+          "Date": "2021-09-15",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Tps",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 13,
+          "Date": "2021-09-11",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Tappara",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 20,
+          "Date": "2021-09-17",
+          "Time": "15:30",
+          "Home": "Hpk",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 18,
+          "Date": "2021-09-15",
+          "Time": "15:30",
+          "Home": "Ässät",
+          "Away": "Kalpa",
+          "Home team goals": 5,
+          "Away team goals": 4,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 15,
+          "Date": "2021-09-15",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 6,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 17,
+          "Date": "2021-09-15",
+          "Time": "15:30",
+          "Home": "Kärpät",
+          "Away": "Hpk",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 19,
+          "Date": "2021-09-16",
+          "Time": "15:30",
+          "Home": "Tappara",
+          "Away": "Ilves",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 22,
+          "Date": "2021-09-17",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Kärpät",
+          "Home team goals": 5,
+          "Away team goals": 4,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 21,
+          "Date": "2021-09-17",
+          "Time": "15:30",
+          "Home": "Kookoo",
+          "Away": "Jyp",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 23,
+          "Date": "2021-09-17",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Tps",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 27,
+          "Date": "2021-09-18",
+          "Time": "14:00",
+          "Home": "Saipa",
+          "Away": "Hpk",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 24,
+          "Date": "2021-09-17",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 25,
+          "Date": "2021-09-18",
+          "Time": "14:00",
+          "Home": "Hifk",
+          "Away": "Sport",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 26,
+          "Date": "2021-09-18",
+          "Time": "14:00",
+          "Home": "Jyp",
+          "Away": "Kookoo",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 33,
+          "Date": "2021-09-22",
+          "Time": "15:30",
+          "Home": "Kookoo",
+          "Away": "Kalpa",
+          "Home team goals": 7,
+          "Away team goals": 4,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 34,
+          "Date": "2021-09-22",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Lukko",
+          "Home team goals": 4,
+          "Away team goals": 0,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 28,
+          "Date": "2021-09-18",
+          "Time": "14:00",
+          "Home": "Ässät",
+          "Away": "Kärpät",
+          "Home team goals": 1,
+          "Away team goals": 7,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 29,
+          "Date": "2021-09-18",
+          "Time": "15:30",
+          "Home": "Kalpa",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 32,
+          "Date": "2021-09-22",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Ässät",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 30,
+          "Date": "2021-09-18",
+          "Time": "15:30",
+          "Home": "Tps",
+          "Away": "Lukko",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 31,
+          "Date": "2021-09-21",
+          "Time": "15:30",
+          "Home": "Ilves",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 35,
+          "Date": "2021-09-22",
+          "Time": "15:30",
+          "Home": "Tappara",
+          "Away": "Kärpät",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 39,
+          "Date": "2021-09-24",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Saipa",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 38,
+          "Date": "2021-09-24",
+          "Time": "15:30",
+          "Home": "Ilves",
+          "Away": "Hpk",
+          "Home team goals": 6,
+          "Away team goals": 1,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 37,
+          "Date": "2021-09-23",
+          "Time": "15:30",
+          "Home": "Hifk",
+          "Away": "Tps",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 40,
+          "Date": "2021-09-24",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Tappara",
+          "Home team goals": 5,
+          "Away team goals": 4,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 41,
+          "Date": "2021-09-24",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Kookoo",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 36,
+          "Date": "2021-09-22",
+          "Time": "15:30",
+          "Home": "Tps",
+          "Away": "Saipa",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 43,
+          "Date": "2021-09-25",
+          "Time": "14:00",
+          "Home": "Kalpa",
+          "Away": "Ilves",
+          "Home team goals": 5,
+          "Away team goals": 0,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 42,
+          "Date": "2021-09-25",
+          "Time": "15:30",
+          "Home": "Hpk",
+          "Away": "Hifk",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 45,
+          "Date": "2021-09-25",
+          "Time": "14:00",
+          "Home": "Saipa",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 48,
+          "Date": "2021-09-25",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Lukko",
+          "Home team goals": 0,
+          "Away team goals": 6,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 46,
+          "Date": "2021-09-25",
+          "Time": "14:00",
+          "Home": "Tappara",
+          "Away": "Jyp",
+          "Home team goals": 6,
+          "Away team goals": 3,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 50,
+          "Date": "2021-09-29",
+          "Time": "15:30",
+          "Home": "Ilves",
+          "Away": "Ässät",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 47,
+          "Date": "2021-09-25",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Jukurit",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 49,
+          "Date": "2021-09-28",
+          "Time": "15:30",
+          "Home": "Hifk",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 51,
+          "Date": "2021-09-29",
+          "Time": "15:30",
+          "Home": "Kalpa",
+          "Away": "Hpk",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 44,
+          "Date": "2021-09-25",
+          "Time": "14:00",
+          "Home": "Kärpät",
+          "Away": "Kookoo",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 52,
+          "Date": "2021-09-29",
+          "Time": "15:30",
+          "Home": "Kookoo",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 55,
+          "Date": "2021-09-29",
+          "Time": "15:30",
+          "Home": "Saipa",
+          "Away": "Tappara",
+          "Home team goals": 0,
+          "Away team goals": 1,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 53,
+          "Date": "2021-09-29",
+          "Time": "15:30",
+          "Home": "Kärpät",
+          "Away": "Sport",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 54,
+          "Date": "2021-09-29",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Jyp",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 60,
+          "Date": "2021-10-01",
+          "Time": "15:30",
+          "Home": "Tappara",
+          "Away": "Kookoo",
+          "Home team goals": 0,
+          "Away team goals": 2,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 57,
+          "Date": "2021-10-01",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 56,
+          "Date": "2022-02-25",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Kärpät",
+          "Home team goals": 2,
+          "Away team goals": 0,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 58,
+          "Date": "2021-10-01",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Pelicans",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 59,
+          "Date": "2021-10-01",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Saipa",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 63,
+          "Date": "2021-10-02",
+          "Time": "14:00",
+          "Home": "Hifk",
+          "Away": "Hpk",
+          "Home team goals": 6,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 65,
+          "Date": "2021-10-02",
+          "Time": "14:00",
+          "Home": "Kalpa",
+          "Away": "Tappara",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 67,
+          "Date": "2021-10-02",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 62,
+          "Date": "2021-10-02",
+          "Time": "13:00",
+          "Home": "Tps",
+          "Away": "Lukko",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 61,
+          "Date": "2021-10-01",
+          "Time": "15:30",
+          "Home": "Ässät",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 69,
+          "Date": "2021-10-06",
+          "Time": "15:30",
+          "Home": "Kookoo",
+          "Away": "Kärpät",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 66,
+          "Date": "2021-10-02",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 64,
+          "Date": "2021-10-02",
+          "Time": "14:00",
+          "Home": "Ilves",
+          "Away": "Sport",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 68,
+          "Date": "2021-10-06",
+          "Time": "15:30",
+          "Home": "Hpk",
+          "Away": "Jukurit",
+          "Home team goals": 4,
+          "Away team goals": 0,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 73,
+          "Date": "2021-10-08",
+          "Time": "15:30",
+          "Home": "Hifk",
+          "Away": "Kärpät",
+          "Home team goals": 0,
+          "Away team goals": 2,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 70,
+          "Date": "2021-10-06",
+          "Time": "15:30",
+          "Home": "Ässät",
+          "Away": "Jyp",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 72,
+          "Date": "2021-10-07",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 75,
+          "Date": "2021-10-08",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Kookoo",
+          "Home team goals": 2,
+          "Away team goals": 0,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 71,
+          "Date": "2021-10-07",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 77,
+          "Date": "2021-10-08",
+          "Time": "15:30",
+          "Home": "Tappara",
+          "Away": "Lukko",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 76,
+          "Date": "2021-10-08",
+          "Time": "15:30",
+          "Home": "Saipa",
+          "Away": "Ässät",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 74,
+          "Date": "2021-10-08",
+          "Time": "15:30",
+          "Home": "Kalpa",
+          "Away": "Tps",
+          "Home team goals": 0,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 79,
+          "Date": "2021-10-09",
+          "Time": "13:00",
+          "Home": "Ilves",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 81,
+          "Date": "2021-10-09",
+          "Time": "14:00",
+          "Home": "Jyp",
+          "Away": "Kalpa",
+          "Home team goals": 5,
+          "Away team goals": 4,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 82,
+          "Date": "2021-10-09",
+          "Time": "14:00",
+          "Home": "Kookoo",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 78,
+          "Date": "2021-10-09",
+          "Time": "14:00",
+          "Home": "Hpk",
+          "Away": "Hifk",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 83,
+          "Date": "2021-10-09",
+          "Time": "14:00",
+          "Home": "Lukko",
+          "Away": "Sport",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 80,
+          "Date": "2021-10-09",
+          "Time": "14:00",
+          "Home": "Jukurit",
+          "Away": "Tappara",
+          "Home team goals": 2,
+          "Away team goals": 8,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 88,
+          "Date": "2021-10-13",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Hpk",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 85,
+          "Date": "2021-10-13",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Jyp",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 84,
+          "Date": "2021-10-09",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Tps",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 87,
+          "Date": "2021-10-13",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Ilves",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 86,
+          "Date": "2021-10-13",
+          "Time": "15:30",
+          "Home": "Kalpa",
+          "Away": "Kookoo",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 93,
+          "Date": "2021-10-15",
+          "Time": "15:30",
+          "Home": "Tps",
+          "Away": "Kalpa",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 90,
+          "Date": "2021-10-15",
+          "Time": "15:30",
+          "Home": "Ilves",
+          "Away": "Jukurit",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 89,
+          "Date": "2021-10-14",
+          "Time": "15:30",
+          "Home": "Hifk",
+          "Away": "Tappara",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 92,
+          "Date": "2021-10-15",
+          "Time": "15:30",
+          "Home": "Kookoo",
+          "Away": "Sport",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 91,
+          "Date": "2021-10-15",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 97,
+          "Date": "2021-10-16",
+          "Time": "14:00",
+          "Home": "Tappara",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 95,
+          "Date": "2021-10-16",
+          "Time": "14:00",
+          "Home": "Lukko",
+          "Away": "Kalpa",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 94,
+          "Date": "2021-10-16",
+          "Time": "14:00",
+          "Home": "Kärpät",
+          "Away": "Hpk",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 98,
+          "Date": "2021-10-16",
+          "Time": "14:00",
+          "Home": "Ässät",
+          "Away": "Ilves",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 96,
+          "Date": "2021-10-16",
+          "Time": "14:00",
+          "Home": "Saipa",
+          "Away": "Sport",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 101,
+          "Date": "2021-10-20",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Kookoo",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 100,
+          "Date": "2021-10-20",
+          "Time": "15:30",
+          "Home": "Ilves",
+          "Away": "Hifk",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 102,
+          "Date": "2021-10-20",
+          "Time": "15:30",
+          "Home": "Kalpa",
+          "Away": "Ässät",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 106,
+          "Date": "2021-10-22",
+          "Time": "15:30",
+          "Home": "Hpk",
+          "Away": "Saipa",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 99,
+          "Date": "2021-10-16",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Hifk",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 104,
+          "Date": "2021-10-20",
+          "Time": "15:30",
+          "Home": "Saipa",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 103,
+          "Date": "2021-10-20",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Jukurit",
+          "Home team goals": 4,
+          "Away team goals": 7,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 108,
+          "Date": "2021-10-22",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Kärpät",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 107,
+          "Date": "2021-10-22",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Kookoo",
+          "Home team goals": 0,
+          "Away team goals": 2,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 110,
+          "Date": "2021-10-23",
+          "Time": "14:00",
+          "Home": "Ilves",
+          "Away": "Kalpa",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 111,
+          "Date": "2021-10-23",
+          "Time": "14:00",
+          "Home": "Kookoo",
+          "Away": "Tappara",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 113,
+          "Date": "2021-10-23",
+          "Time": "15:30",
+          "Home": "Sport",
+          "Away": "Ässät",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 112,
+          "Date": "2021-10-23",
+          "Time": "14:00",
+          "Home": "Saipa",
+          "Away": "Jyp",
+          "Home team goals": 5,
+          "Away team goals": 3,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 105,
+          "Date": "2021-10-21",
+          "Time": "15:30",
+          "Home": "Tappara",
+          "Away": "Hifk",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 109,
+          "Date": "2021-10-22",
+          "Time": "15:30",
+          "Home": "Ässät",
+          "Away": "Tps",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 115,
+          "Date": "2021-10-23",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 117,
+          "Date": "2021-10-26",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 114,
+          "Date": "2021-10-23",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Hpk",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 119,
+          "Date": "2021-10-27",
+          "Time": "15:30",
+          "Home": "Jyp",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 116,
+          "Date": "2021-10-23",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Jukurit",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 118,
+          "Date": "2021-10-26",
+          "Time": "15:30",
+          "Home": "Lukko",
+          "Away": "Kookoo",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 120,
+          "Date": "2021-10-27",
+          "Time": "15:30",
+          "Home": "Kärpät",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 122,
+          "Date": "2021-10-27",
+          "Time": "15:30",
+          "Home": "Tappara",
+          "Away": "Sport",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 121,
+          "Date": "2021-10-27",
+          "Time": "15:30",
+          "Home": "Saipa",
+          "Away": "Ilves",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 125,
+          "Date": "2021-10-29",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Kärpät",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 130,
+          "Date": "2021-10-30",
+          "Time": "14:00",
+          "Home": "Hifk",
+          "Away": "Ilves",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 124,
+          "Date": "2021-10-29",
+          "Time": "15:30",
+          "Home": "Ilves",
+          "Away": "Tappara",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 123,
+          "Date": "2021-10-27",
+          "Time": "15:30",
+          "Home": "Ässät",
+          "Away": "Kookoo",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 127,
+          "Date": "2021-10-29",
+          "Time": "15:30",
+          "Home": "Kookoo",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 129,
+          "Date": "2021-10-30",
+          "Time": "13:00",
+          "Home": "Saipa",
+          "Away": "Kärpät",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 128,
+          "Date": "2021-10-29",
+          "Time": "15:30",
+          "Home": "Pelicans",
+          "Away": "Hpk",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 126,
+          "Date": "2021-10-29",
+          "Time": "15:30",
+          "Home": "Kalpa",
+          "Away": "Hifk",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 132,
+          "Date": "2021-10-30",
+          "Time": "14:00",
+          "Home": "Jyp",
+          "Away": "Lukko",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 133,
+          "Date": "2021-10-30",
+          "Time": "14:00",
+          "Home": "Sport",
+          "Away": "Pelicans",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 131,
+          "Date": "2021-10-30",
+          "Time": "14:00",
+          "Home": "Hpk",
+          "Away": "Kalpa",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 134,
+          "Date": "2021-10-30",
+          "Time": "14:00",
+          "Home": "Tappara",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 138,
+          "Date": "2021-11-03",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 6,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 136,
+          "Date": "2021-11-02",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Pelicans",
+          "Home team goals": 5,
+          "Away team goals": 1,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 139,
+          "Date": "2021-11-03",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 137,
+          "Date": "2021-11-03",
+          "Time": "16:30",
+          "Home": "Jukurit",
+          "Away": "Lukko",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 142,
+          "Date": "2021-11-04",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 140,
+          "Date": "2021-11-03",
+          "Time": "16:30",
+          "Home": "Tps",
+          "Away": "Sport",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 143,
+          "Date": "2021-11-04",
+          "Time": "16:30",
+          "Home": "Ilves",
+          "Away": "Kookoo",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 147,
+          "Date": "2021-11-05",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 145,
+          "Date": "2021-11-05",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Ässät",
+          "Home team goals": 1,
+          "Away team goals": 5,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 146,
+          "Date": "2021-11-05",
+          "Time": "16:30",
+          "Home": "Kärpät",
+          "Away": "Kalpa",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 144,
+          "Date": "2021-11-05",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Sport",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 141,
+          "Date": "2021-11-03",
+          "Time": "16:30",
+          "Home": "Ässät",
+          "Away": "Tappara",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 148,
+          "Date": "2021-11-05",
+          "Time": "16:30",
+          "Home": "Pelicans",
+          "Away": "Tappara",
+          "Home team goals": 1,
+          "Away team goals": 5,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 153,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Kalpa",
+          "Home team goals": 5,
+          "Away team goals": 4,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 151,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Jukurit",
+          "Away": "Sport",
+          "Home team goals": 2,
+          "Away team goals": 0,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 149,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Jyp",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 150,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Ilves",
+          "Away": "Lukko",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 152,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 154,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Tps",
+          "Away": "Tappara",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 155,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 161,
+          "Date": "2021-11-19",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Sport",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 158,
+          "Date": "2021-11-17",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Kärpät",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 157,
+          "Date": "2021-11-17",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Kalpa",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 156,
+          "Date": "2021-11-15",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Kookoo",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 162,
+          "Date": "2021-11-19",
+          "Time": "16:30",
+          "Home": "Jukurit",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 160,
+          "Date": "2021-11-18",
+          "Time": "16:30",
+          "Home": "Pelicans",
+          "Away": "Saipa",
+          "Home team goals": 5,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 159,
+          "Date": "2021-11-18",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Kärpät",
+          "Home team goals": 1,
+          "Away team goals": 10,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 163,
+          "Date": "2021-11-19",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Lukko",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 164,
+          "Date": "2021-11-19",
+          "Time": "16:30",
+          "Home": "Tappara",
+          "Away": "Tps",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 165,
+          "Date": "2021-11-20",
+          "Time": "15:00",
+          "Home": "Ilves",
+          "Away": "Jyp",
+          "Home team goals": 6,
+          "Away team goals": 1,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 166,
+          "Date": "2021-11-20",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Jukurit",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 167,
+          "Date": "2021-11-20",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 168,
+          "Date": "2021-11-20",
+          "Time": "15:00",
+          "Home": "Pelicans",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 170,
+          "Date": "2021-11-20",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Hpk",
+          "Home team goals": 0,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 169,
+          "Date": "2021-11-20",
+          "Time": "15:00",
+          "Home": "Sport",
+          "Away": "Tappara",
+          "Home team goals": 0,
+          "Away team goals": 4,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 173,
+          "Date": "2021-11-24",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Kookoo",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 175,
+          "Date": "2021-12-04",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Ässät",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 171,
+          "Date": "2021-11-20",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 172,
+          "Date": "2021-11-24",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Saipa",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 174,
+          "Date": "2021-11-24",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Jukurit",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 179,
+          "Date": "2021-11-26",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Kärpät",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 180,
+          "Date": "2021-11-26",
+          "Time": "16:30",
+          "Home": "Ilves",
+          "Away": "Tps",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 178,
+          "Date": "2021-11-25",
+          "Time": "16:30",
+          "Home": "Tps",
+          "Away": "Kookoo",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 182,
+          "Date": "2021-11-26",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Jukurit",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 176,
+          "Date": "2021-11-24",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Pelicans",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 177,
+          "Date": "2021-12-20",
+          "Time": "16:30",
+          "Home": "Tappara",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 184,
+          "Date": "2021-11-26",
+          "Time": "16:30",
+          "Home": "Ässät",
+          "Away": "Tappara",
+          "Home team goals": 0,
+          "Away team goals": 5,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 183,
+          "Date": "2021-11-26",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Pelicans",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 189,
+          "Date": "2021-11-27",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Hifk",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 185,
+          "Date": "2021-11-27",
+          "Time": "14:00",
+          "Home": "Jukurit",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 187,
+          "Date": "2021-11-27",
+          "Time": "15:00",
+          "Home": "Sport",
+          "Away": "Jyp",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 188,
+          "Date": "2021-11-27",
+          "Time": "15:00",
+          "Home": "Tappara",
+          "Away": "Hpk",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 190,
+          "Date": "2022-01-18",
+          "Time": "15:00",
+          "Home": "Pelicans",
+          "Away": "Lukko",
+          "Home team goals": 1,
+          "Away team goals": 6,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 192,
+          "Date": "2021-12-01",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 186,
+          "Date": "2021-11-27",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 191,
+          "Date": "2021-12-01",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Hpk",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 196,
+          "Date": "2021-12-03",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Jyp",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 193,
+          "Date": "2021-12-01",
+          "Time": "16:30",
+          "Home": "Ässät",
+          "Away": "Tps",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 194,
+          "Date": "2021-12-02",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 197,
+          "Date": "2021-12-03",
+          "Time": "16:30",
+          "Home": "Kookoo",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 195,
+          "Date": "2021-12-02",
+          "Time": "16:30",
+          "Home": "Tps",
+          "Away": "Kärpät",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 200,
+          "Date": "2021-12-04",
+          "Time": "14:00",
+          "Home": "Ilves",
+          "Away": "Tappara",
+          "Home team goals": 0,
+          "Away team goals": 7,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 198,
+          "Date": "2021-12-03",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Jukurit",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 199,
+          "Date": "2021-12-03",
+          "Time": "16:30",
+          "Home": "Tappara",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 6,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 202,
+          "Date": "2021-12-04",
+          "Time": "15:00",
+          "Home": "Jyp",
+          "Away": "Sport",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 203,
+          "Date": "2021-12-04",
+          "Time": "15:00",
+          "Home": "Lukko",
+          "Away": "Hifk",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 201,
+          "Date": "2021-12-04",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Tps",
+          "Home team goals": 0,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 205,
+          "Date": "2021-12-04",
+          "Time": "16:30",
+          "Home": "Pelicans",
+          "Away": "Kookoo",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 204,
+          "Date": "2021-12-04",
+          "Time": "16:30",
+          "Home": "Jukurit",
+          "Away": "Saipa",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 206,
+          "Date": "2021-12-07",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Kookoo",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 207,
+          "Date": "2021-12-08",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Pelicans",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 208,
+          "Date": "2021-12-08",
+          "Time": "16:30",
+          "Home": "Kookoo",
+          "Away": "Hpk",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 210,
+          "Date": "2021-12-08",
+          "Time": "16:30",
+          "Home": "Tappara",
+          "Away": "Saipa",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 209,
+          "Date": "2021-12-08",
+          "Time": "16:30",
+          "Home": "Kärpät",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 211,
+          "Date": "2021-12-08",
+          "Time": "16:30",
+          "Home": "Ässät",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 213,
+          "Date": "2021-12-10",
+          "Time": "16:30",
+          "Home": "Jukurit",
+          "Away": "Hpk",
+          "Home team goals": 6,
+          "Away team goals": 0,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 212,
+          "Date": "2021-12-09",
+          "Time": "16:30",
+          "Home": "Tps",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 216,
+          "Date": "2021-12-10",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Kärpät",
+          "Home team goals": 0,
+          "Away team goals": 4,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 215,
+          "Date": "2021-12-10",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Ässät",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 217,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Hifk",
+          "Away": "Jyp",
+          "Home team goals": 6,
+          "Away team goals": 4,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 214,
+          "Date": "2021-12-10",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 218,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Ilves",
+          "Home team goals": 5,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 219,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Kalpa",
+          "Away": "Sport",
+          "Home team goals": 5,
+          "Away team goals": 0,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 220,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Lukko",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 221,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Tappara",
+          "Home team goals": 4,
+          "Away team goals": 6,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 224,
+          "Date": "2021-12-13",
+          "Time": "16:30",
+          "Home": "Ilves",
+          "Away": "Kärpät",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 223,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 222,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Saipa",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 225,
+          "Date": "2021-12-15",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Kalpa",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 227,
+          "Date": "2021-11-27",
+          "Time": "16:30",
+          "Home": "Pelicans",
+          "Away": "Saipa",
+          "Home team goals": 6,
+          "Away team goals": 4,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 229,
+          "Date": "2021-12-15",
+          "Time": "16:30",
+          "Home": "Tps",
+          "Away": "Kookoo",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 226,
+          "Date": "2021-12-20",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Jyp",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 232,
+          "Date": "2021-12-17",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Pelicans",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 230,
+          "Date": "2022-01-21",
+          "Time": "15:00",
+          "Home": "Jukurit",
+          "Away": "Hpk",
+          "Home team goals": 1,
+          "Away team goals": 5,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 231,
+          "Date": "2021-12-17",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Tappara",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 236,
+          "Date": "2021-12-17",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Ilves",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 235,
+          "Date": "2021-12-17",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Tps",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 237,
+          "Date": "2021-12-26",
+          "Time": "14:00",
+          "Home": "Pelicans",
+          "Away": "Hifk",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 239,
+          "Date": "2021-12-26",
+          "Time": "15:00",
+          "Home": "Jukurit",
+          "Away": "Tappara",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 240,
+          "Date": "2021-12-26",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Saipa",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 233,
+          "Date": "2021-12-17",
+          "Time": "16:30",
+          "Home": "Kookoo",
+          "Away": "Hifk",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 244,
+          "Date": "2021-12-27",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 241,
+          "Date": "2021-12-26",
+          "Time": "15:00",
+          "Home": "Sport",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 245,
+          "Date": "2021-12-28",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 242,
+          "Date": "2021-12-26",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Tps",
+          "Home team goals": 5,
+          "Away team goals": 1,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 243,
+          "Date": "2021-12-26",
+          "Time": "16:00",
+          "Home": "Kärpät",
+          "Away": "Jyp",
+          "Home team goals": 5,
+          "Away team goals": 1,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 247,
+          "Date": "2021-12-28",
+          "Time": "15:00",
+          "Home": "Lukko",
+          "Away": "Kookoo",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 250,
+          "Date": "2021-12-30",
+          "Time": "15:30",
+          "Home": "Jukurit",
+          "Away": "Jyp",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 248,
+          "Date": "2021-12-28",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 249,
+          "Date": "2021-12-30",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Kärpät",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 246,
+          "Date": "2021-12-28",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Jukurit",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 251,
+          "Date": "2021-12-30",
+          "Time": "16:30",
+          "Home": "Kookoo",
+          "Away": "Tappara",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 254,
+          "Date": "2021-12-30",
+          "Time": "15:00",
+          "Home": "Sport",
+          "Away": "Hifk",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 253,
+          "Date": "2021-12-30",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 252,
+          "Date": "2021-12-30",
+          "Time": "15:00",
+          "Home": "Lukko",
+          "Away": "Ilves",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 258,
+          "Date": "2022-01-05",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Ilves",
+          "Home team goals": 5,
+          "Away team goals": 6,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 255,
+          "Date": "2021-12-30",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 259,
+          "Date": "2022-01-05",
+          "Time": "15:00",
+          "Home": "Saipa",
+          "Away": "Hpk",
+          "Home team goals": 3,
+          "Away team goals": 6,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 262,
+          "Date": "2022-01-06",
+          "Time": "15:00",
+          "Home": "Hifk",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 264,
+          "Date": "2022-01-07",
+          "Time": "16:30",
+          "Home": "Ilves",
+          "Away": "Ässät",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 260,
+          "Date": "2022-01-18",
+          "Time": "15:00",
+          "Home": "Tappara",
+          "Away": "Sport",
+          "Home team goals": 7,
+          "Away team goals": 1,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 268,
+          "Date": "2022-01-08",
+          "Time": "13:00",
+          "Home": "Kärpät",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 274,
+          "Date": "2022-02-20",
+          "Time": "14:00",
+          "Home": "Tappara",
+          "Away": "Jukurit",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 267,
+          "Date": "2022-01-07",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Saipa",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 271,
+          "Date": "2022-01-08",
+          "Time": "13:30",
+          "Home": "Ässät",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 269,
+          "Date": "2022-01-08",
+          "Time": "13:00",
+          "Home": "Lukko",
+          "Away": "Saipa",
+          "Home team goals": 6,
+          "Away team goals": 0,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 276,
+          "Date": "2022-01-12",
+          "Time": "15:00",
+          "Home": "Jukurit",
+          "Away": "Ässät",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 273,
+          "Date": "2022-01-08",
+          "Time": "15:00",
+          "Home": "Tappara",
+          "Away": "Hpk",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 278,
+          "Date": "2022-02-23",
+          "Time": "16:30",
+          "Home": "Kookoo",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 0,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 284,
+          "Date": "2022-01-14",
+          "Time": "15:00",
+          "Home": "Pelicans",
+          "Away": "Kalpa",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 280,
+          "Date": "2022-01-13",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Ilves",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 279,
+          "Date": "2022-02-13",
+          "Time": "15:00",
+          "Home": "Tps",
+          "Away": "Pelicans",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 281,
+          "Date": "2022-01-13",
+          "Time": "15:00",
+          "Home": "Saipa",
+          "Away": "Tappara",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 283,
+          "Date": "2022-01-14",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Lukko",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 285,
+          "Date": "2022-01-14",
+          "Time": "13:30",
+          "Home": "Ässät",
+          "Away": "Kärpät",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 289,
+          "Date": "2022-01-15",
+          "Time": "15:00",
+          "Home": "Saipa",
+          "Away": "Hifk",
+          "Home team goals": 3,
+          "Away team goals": 7,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 290,
+          "Date": "2022-01-15",
+          "Time": "13:00",
+          "Home": "Sport",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 288,
+          "Date": "2022-01-15",
+          "Time": "13:00",
+          "Home": "Lukko",
+          "Away": "Kärpät",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 292,
+          "Date": "2022-01-17",
+          "Time": "15:00",
+          "Home": "Ilves",
+          "Away": "Kärpät",
+          "Home team goals": 4,
+          "Away team goals": 0,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 286,
+          "Date": "2022-01-15",
+          "Time": "13:00",
+          "Home": "Ilves",
+          "Away": "Pelicans",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 294,
+          "Date": "2022-01-19",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Hpk",
+          "Home team goals": 0,
+          "Away team goals": 6,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 297,
+          "Date": "2022-01-20",
+          "Time": "16:30",
+          "Home": "Kärpät",
+          "Away": "Pelicans",
+          "Home team goals": 2,
+          "Away team goals": 0,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 305,
+          "Date": "2022-01-22",
+          "Time": "13:00",
+          "Home": "Kärpät",
+          "Away": "Tps",
+          "Home team goals": 5,
+          "Away team goals": 4,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 304,
+          "Date": "2022-01-22",
+          "Time": "15:00",
+          "Home": "Jukurit",
+          "Away": "Jyp",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 308,
+          "Date": "2022-01-22",
+          "Time": "13:00",
+          "Home": "Ässät",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 313,
+          "Date": "2021-11-26",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Sport",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 309,
+          "Date": "2022-01-26",
+          "Time": "15:00",
+          "Home": "Sport",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 310,
+          "Date": "2022-01-26",
+          "Time": "13:00",
+          "Home": "Tps",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 302,
+          "Date": "2022-01-14",
+          "Time": "15:00",
+          "Home": "Hifk",
+          "Away": "Tappara",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 312,
+          "Date": "2022-01-11",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 314,
+          "Date": "2022-01-28",
+          "Time": "13:30",
+          "Home": "Kookoo",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 316,
+          "Date": "2022-01-28",
+          "Time": "13:00",
+          "Home": "Tps",
+          "Away": "Lukko",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 321,
+          "Date": "2022-01-29",
+          "Time": "13:00",
+          "Home": "Kalpa",
+          "Away": "Jyp",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 320,
+          "Date": "2022-01-29",
+          "Time": "13:30",
+          "Home": "Jukurit",
+          "Away": "Pelicans",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 317,
+          "Date": "2022-01-28",
+          "Time": "13:30",
+          "Home": "Ässät",
+          "Away": "Saipa",
+          "Home team goals": 5,
+          "Away team goals": 6,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 323,
+          "Date": "2022-01-29",
+          "Time": "13:00",
+          "Home": "Sport",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 326,
+          "Date": "2022-02-02",
+          "Time": "16:00",
+          "Home": "Hpk",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 322,
+          "Date": "2022-01-29",
+          "Time": "13:00",
+          "Home": "Saipa",
+          "Away": "Kookoo",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 325,
+          "Date": "2022-02-01",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Jukurit",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 329,
+          "Date": "2022-02-02",
+          "Time": "16:00",
+          "Home": "Tps",
+          "Away": "Jukurit",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 328,
+          "Date": "2022-02-02",
+          "Time": "16:00",
+          "Home": "Sport",
+          "Away": "Tappara",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 333,
+          "Date": "2022-02-04",
+          "Time": "15:00",
+          "Home": "Jyp",
+          "Away": "Hpk",
+          "Home team goals": 1,
+          "Away team goals": 5,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 331,
+          "Date": "2022-02-03",
+          "Time": "16:30",
+          "Home": "Lukko",
+          "Away": "Kalpa",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 330,
+          "Date": "2022-02-03",
+          "Time": "16:00",
+          "Home": "Ilves",
+          "Away": "Jyp",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 332,
+          "Date": "2022-02-05",
+          "Time": "13:00",
+          "Home": "Saipa",
+          "Away": "Kärpät",
+          "Home team goals": 0,
+          "Away team goals": 5,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 334,
+          "Date": "2022-02-04",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Kärpät",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 336,
+          "Date": "2022-02-04",
+          "Time": "16:00",
+          "Home": "Tappara",
+          "Away": "Tps",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 340,
+          "Date": "2022-02-05",
+          "Time": "13:00",
+          "Home": "Jukurit",
+          "Away": "Sport",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 341,
+          "Date": "2022-02-05",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 343,
+          "Date": "2022-02-08",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Hpk",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 335,
+          "Date": "2022-02-04",
+          "Time": "13:00",
+          "Home": "Pelicans",
+          "Away": "Sport",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 339,
+          "Date": "2022-02-05",
+          "Time": "15:00",
+          "Home": "Ilves",
+          "Away": "Kookoo",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 342,
+          "Date": "2022-02-05",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Lukko",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 337,
+          "Date": "2022-02-05",
+          "Time": "15:00",
+          "Home": "Hifk",
+          "Away": "Pelicans",
+          "Home team goals": 0,
+          "Away team goals": 1,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 338,
+          "Date": "2022-02-05",
+          "Time": "15:00",
+          "Home": "Hpk",
+          "Away": "Tappara",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 346,
+          "Date": "2022-02-08",
+          "Time": "16:00",
+          "Home": "Kärpät",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 348,
+          "Date": "2022-02-09",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Tps",
+          "Home team goals": 5,
+          "Away team goals": 3,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 344,
+          "Date": "2022-02-08",
+          "Time": "16:30",
+          "Home": "Jukurit",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 345,
+          "Date": "2022-02-08",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 351,
+          "Date": "2022-02-11",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Jukurit",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 347,
+          "Date": "2022-02-08",
+          "Time": "16:00",
+          "Home": "Tappara",
+          "Away": "Jyp",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 349,
+          "Date": "2022-02-10",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Ässät",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 352,
+          "Date": "2022-02-11",
+          "Time": "16:00",
+          "Home": "Pelicans",
+          "Away": "Tappara",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Pelicans"
+        },
+        {
+          "Game ID": 359,
+          "Date": "2022-02-12",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Hpk",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 354,
+          "Date": "2022-02-12",
+          "Time": "15:00",
+          "Home": "Jukurit",
+          "Away": "Kookoo",
+          "Home team goals": 5,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 353,
+          "Date": "2022-02-22",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Saipa",
+          "Home team goals": 7,
+          "Away team goals": 1,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 361,
+          "Date": "2022-02-15",
+          "Time": "16:00",
+          "Home": "Tappara",
+          "Away": "Ässät",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 356,
+          "Date": "2022-02-12",
+          "Time": "15:00",
+          "Home": "Kärpät",
+          "Away": "Saipa",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 360,
+          "Date": "2022-02-12",
+          "Time": "16:00",
+          "Home": "Tps",
+          "Away": "Hifk",
+          "Home team goals": 4,
+          "Away team goals": 0,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 363,
+          "Date": "2022-02-16",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Pelicans",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 362,
+          "Date": "2022-02-16",
+          "Time": "16:30",
+          "Home": "Hifk",
+          "Away": "Jukurit",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 366,
+          "Date": "2022-02-16",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Lukko",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 368,
+          "Date": "2022-02-17",
+          "Time": "16:30",
+          "Home": "Pelicans",
+          "Away": "Tps",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 369,
+          "Date": "2022-02-18",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Hifk",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 365,
+          "Date": "2022-02-16",
+          "Time": "16:30",
+          "Home": "Kookoo",
+          "Away": "Kalpa",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 370,
+          "Date": "2022-02-18",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Kärpät",
+          "Home team goals": 6,
+          "Away team goals": 3,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 372,
+          "Date": "2021-12-15",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Jyp",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 373,
+          "Date": "2022-02-19",
+          "Time": "12:30",
+          "Home": "Ilves",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 374,
+          "Date": "2022-02-19",
+          "Time": "15:00",
+          "Home": "Kalpa",
+          "Away": "Kärpät",
+          "Home team goals": 4,
+          "Away team goals": 0,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 371,
+          "Date": "2022-02-18",
+          "Time": "16:30",
+          "Home": "Saipa",
+          "Away": "Ässät",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 377,
+          "Date": "2022-02-19",
+          "Time": "15:00",
+          "Home": "Pelicans",
+          "Away": "Sport",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 375,
+          "Date": "2022-02-19",
+          "Time": "15:00",
+          "Home": "Kookoo",
+          "Away": "Ässät",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 378,
+          "Date": "2022-02-19",
+          "Time": "15:00",
+          "Home": "Tps",
+          "Away": "Hpk",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 380,
+          "Date": "2022-02-22",
+          "Time": "16:00",
+          "Home": "Ilves",
+          "Away": "Tps",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 381,
+          "Date": "2022-02-23",
+          "Time": "16:30",
+          "Home": "Hpk",
+          "Away": "Jyp",
+          "Home team goals": 5,
+          "Away team goals": 3,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 379,
+          "Date": "2022-02-19",
+          "Time": "17:30",
+          "Home": "Tappara",
+          "Away": "Saipa",
+          "Home team goals": 6,
+          "Away team goals": 2,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 387,
+          "Date": "2022-02-25",
+          "Time": "16:30",
+          "Home": "Jyp",
+          "Away": "Ässät",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 386,
+          "Date": "2022-02-25",
+          "Time": "16:30",
+          "Home": "Ilves",
+          "Away": "Tappara",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 383,
+          "Date": "2022-02-23",
+          "Time": "16:30",
+          "Home": "Tappara",
+          "Away": "Kalpa",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 384,
+          "Date": "2022-02-23",
+          "Time": "15:30",
+          "Home": "Ässät",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 388,
+          "Date": "2022-02-25",
+          "Time": "16:30",
+          "Home": "Kalpa",
+          "Away": "Lukko",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Kalpa"
+        },
+        {
+          "Game ID": 390,
+          "Date": "2022-02-25",
+          "Time": "16:30",
+          "Home": "Sport",
+          "Away": "Tps",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 389,
+          "Date": "2021-10-15",
+          "Time": "15:30",
+          "Home": "Kärpät",
+          "Away": "Hpk",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 434,
+          "Date": "2021-12-17",
+          "Time": "16:30",
+          "Home": "Kärpät",
+          "Away": "Sport",
+          "Home team goals": 0,
+          "Away team goals": 1,
+          "Winner": "Sport"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "TPS": {
+    "team_name:": "TPS",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 11,
+          "Date": "2021-09-11",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Ilves",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 30,
+          "Date": "2021-09-18",
+          "Time": "15:30",
+          "Home": "Tps",
+          "Away": "Lukko",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 36,
+          "Date": "2021-09-22",
+          "Time": "15:30",
+          "Home": "Tps",
+          "Away": "Saipa",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 47,
+          "Date": "2021-09-25",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Jukurit",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 62,
+          "Date": "2021-10-02",
+          "Time": "13:00",
+          "Home": "Tps",
+          "Away": "Lukko",
+          "Home team goals": 4,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 93,
+          "Date": "2021-10-15",
+          "Time": "15:30",
+          "Home": "Tps",
+          "Away": "Kalpa",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 114,
+          "Date": "2021-10-23",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Hpk",
+          "Home team goals": 1,
+          "Away team goals": 0,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 140,
+          "Date": "2021-11-03",
+          "Time": "16:30",
+          "Home": "Tps",
+          "Away": "Sport",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Sport"
+        },
+        {
+          "Game ID": 154,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Tps",
+          "Away": "Tappara",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 178,
+          "Date": "2021-11-25",
+          "Time": "16:30",
+          "Home": "Tps",
+          "Away": "Kookoo",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 195,
+          "Date": "2021-12-02",
+          "Time": "16:30",
+          "Home": "Tps",
+          "Away": "Kärpät",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 212,
+          "Date": "2021-12-09",
+          "Time": "16:30",
+          "Home": "Tps",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Hifk"
+        },
+        {
+          "Game ID": 229,
+          "Date": "2021-12-15",
+          "Time": "16:30",
+          "Home": "Tps",
+          "Away": "Kookoo",
+          "Home team goals": 1,
+          "Away team goals": 3,
+          "Winner": "Kookoo"
+        },
+        {
+          "Game ID": 248,
+          "Date": "2021-12-28",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 5,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 255,
+          "Date": "2021-12-30",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 267,
+          "Date": "2022-01-07",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Saipa",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 279,
+          "Date": "2022-02-13",
+          "Time": "15:00",
+          "Home": "Tps",
+          "Away": "Pelicans",
+          "Home team goals": 4,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 310,
+          "Date": "2022-01-26",
+          "Time": "13:00",
+          "Home": "Tps",
+          "Away": "Ässät",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 316,
+          "Date": "2022-01-28",
+          "Time": "13:00",
+          "Home": "Tps",
+          "Away": "Lukko",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 329,
+          "Date": "2022-02-02",
+          "Time": "16:00",
+          "Home": "Tps",
+          "Away": "Jukurit",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 341,
+          "Date": "2022-02-05",
+          "Time": "14:00",
+          "Home": "Tps",
+          "Away": "Kalpa",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 360,
+          "Date": "2022-02-12",
+          "Time": "16:00",
+          "Home": "Tps",
+          "Away": "Hifk",
+          "Home team goals": 4,
+          "Away team goals": 0,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 378,
+          "Date": "2022-02-19",
+          "Time": "15:00",
+          "Home": "Tps",
+          "Away": "Hpk",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Tps"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  },
+  "Ässät": {
+    "team_name:": "Ässät",
+    "games": {
+      "played_games": [
+        {
+          "Game ID": 18,
+          "Date": "2021-09-15",
+          "Time": "15:30",
+          "Home": "Ässät",
+          "Away": "Kalpa",
+          "Home team goals": 5,
+          "Away team goals": 4,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 28,
+          "Date": "2021-09-18",
+          "Time": "14:00",
+          "Home": "Ässät",
+          "Away": "Kärpät",
+          "Home team goals": 1,
+          "Away team goals": 7,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 48,
+          "Date": "2021-09-25",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Lukko",
+          "Home team goals": 0,
+          "Away team goals": 6,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 61,
+          "Date": "2021-10-01",
+          "Time": "15:30",
+          "Home": "Ässät",
+          "Away": "Hifk",
+          "Home team goals": 2,
+          "Away team goals": 1,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 70,
+          "Date": "2021-10-06",
+          "Time": "15:30",
+          "Home": "Ässät",
+          "Away": "Jyp",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Jyp"
+        },
+        {
+          "Game ID": 98,
+          "Date": "2021-10-16",
+          "Time": "14:00",
+          "Home": "Ässät",
+          "Away": "Ilves",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 109,
+          "Date": "2021-10-22",
+          "Time": "15:30",
+          "Home": "Ässät",
+          "Away": "Tps",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 123,
+          "Date": "2021-10-27",
+          "Time": "15:30",
+          "Home": "Ässät",
+          "Away": "Kookoo",
+          "Home team goals": 4,
+          "Away team goals": 3,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 141,
+          "Date": "2021-11-03",
+          "Time": "16:30",
+          "Home": "Ässät",
+          "Away": "Tappara",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 155,
+          "Date": "2021-11-06",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Saipa",
+          "Home team goals": 2,
+          "Away team goals": 4,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 170,
+          "Date": "2021-11-20",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Hpk",
+          "Home team goals": 0,
+          "Away team goals": 1,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 184,
+          "Date": "2021-11-26",
+          "Time": "16:30",
+          "Home": "Ässät",
+          "Away": "Tappara",
+          "Home team goals": 0,
+          "Away team goals": 5,
+          "Winner": "Tappara"
+        },
+        {
+          "Game ID": 193,
+          "Date": "2021-12-01",
+          "Time": "16:30",
+          "Home": "Ässät",
+          "Away": "Tps",
+          "Home team goals": 1,
+          "Away team goals": 2,
+          "Winner": "Tps"
+        },
+        {
+          "Game ID": 211,
+          "Date": "2021-12-08",
+          "Time": "16:30",
+          "Home": "Ässät",
+          "Away": "Jukurit",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Jukurit"
+        },
+        {
+          "Game ID": 223,
+          "Date": "2021-12-11",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 1,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 242,
+          "Date": "2021-12-26",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Tps",
+          "Home team goals": 5,
+          "Away team goals": 1,
+          "Winner": "Ässät"
+        },
+        {
+          "Game ID": 271,
+          "Date": "2022-01-08",
+          "Time": "13:30",
+          "Home": "Ässät",
+          "Away": "Ilves",
+          "Home team goals": 3,
+          "Away team goals": 4,
+          "Winner": "Ilves"
+        },
+        {
+          "Game ID": 285,
+          "Date": "2022-01-14",
+          "Time": "13:30",
+          "Home": "Ässät",
+          "Away": "Kärpät",
+          "Home team goals": 1,
+          "Away team goals": 4,
+          "Winner": "Kärpät"
+        },
+        {
+          "Game ID": 308,
+          "Date": "2022-01-22",
+          "Time": "13:00",
+          "Home": "Ässät",
+          "Away": "Lukko",
+          "Home team goals": 2,
+          "Away team goals": 5,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 317,
+          "Date": "2022-01-28",
+          "Time": "13:30",
+          "Home": "Ässät",
+          "Away": "Saipa",
+          "Home team goals": 5,
+          "Away team goals": 6,
+          "Winner": "Saipa"
+        },
+        {
+          "Game ID": 342,
+          "Date": "2022-02-05",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Lukko",
+          "Home team goals": 0,
+          "Away team goals": 3,
+          "Winner": "Lukko"
+        },
+        {
+          "Game ID": 359,
+          "Date": "2022-02-12",
+          "Time": "15:00",
+          "Home": "Ässät",
+          "Away": "Hpk",
+          "Home team goals": 2,
+          "Away team goals": 3,
+          "Winner": "Hpk"
+        },
+        {
+          "Game ID": 384,
+          "Date": "2022-02-23",
+          "Time": "15:30",
+          "Home": "Ässät",
+          "Away": "Pelicans",
+          "Home team goals": 3,
+          "Away team goals": 2,
+          "Winner": "Ässät"
+        }
+      ],
+      "upcoming_games": []
+    },
+    "results": {
+      "standings_ranking": null,
+      "points": null,
+      "games_played": null,
+      "points_per_game": null,
+      "games_won": null,
+      "games_lost": null,
+      "games_tied": null,
+      "ot_ps_won": null,
+      "ot_ps_lost": null,
+      "powerplay_percentage": null
+    }
+  }
+}

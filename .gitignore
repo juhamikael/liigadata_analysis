@@ -769,3 +769,6 @@ main_as_jupyterfile.ipynb
 
 # Notebook Checkpoints
 .ipynb_checkpoints/
+league_table_data/team8.json
+game_data/
+league_table_data/
