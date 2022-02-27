@@ -1,5 +1,4 @@
 # -*- coding: cp1252 -*-
-import itertools
 
 from liiga_function_library import fetch_data, write_json, return_results, return_team_results
 from liiga_function_library import return_league_table, team_list, write_files

@@ -1,8 +1,6 @@
 # -*- coding: cp1252 -*-
 
 from re import A
-from datetime import datetime, timedelta
-import pytz
 import requests
 import json
 import os
