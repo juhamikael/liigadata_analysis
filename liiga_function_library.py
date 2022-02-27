@@ -59,16 +59,15 @@ def return_results(*argv):
         "date": date,
         "home": home_team_id.lower(),
         "away": away_team_id.lower(),
-        f"home_team_goals": home_team_goals,
-        f"away_team_goals": away_team_goals,
+        "home_team_goals": home_team_goals,
+        "away_team_goals": away_team_goals,
         "winner": winner.lower()}
 
     if len(argv) == 1:
         return dict_to_return
     if len(argv) == 2:
-        # print(dict_to_return["Home"])
         team_name = argv[1]
-        if dict_to_return["Home"].lower() == team_name or dict_to_return["Away"].lower() == team_name:
+        if dict_to_return["home"].lower() == team_name or dict_to_return["away"].lower() == team_name:
             return dict_to_return
 
 

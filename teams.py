@@ -1,9 +1,7 @@
 # -*- coding: cp1252 -*-
 
 from liiga_function_library import team_list
-
 teams = team_list()
-
 team_dict = {}
 for i in teams:
     team_dict[i] = {
@@ -12,10 +10,7 @@ for i in teams:
             "played_games": [],
             "upcoming_games": []
         }
-
     }
-
-
 def to_lower(dictionary):
     def try_iterate(k):
         return lower_by_level(k) if isinstance(k, dict) else k

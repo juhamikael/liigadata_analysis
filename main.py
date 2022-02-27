@@ -64,19 +64,17 @@ for i in range(1, len(all_games)):
     else:
         played_games.append(return_results(all_games[i]))
 
-
 z = 1
 
 # print(played_games[5]["Away"].lower())
 
-for ind, x  in enumerate(teams):
+for ind, x in enumerate(teams):
     for i in played_games:
-        if i["home"].lower() == x.lower() or played_games[ind]["away"].lower() == x.lower():
+        if i["home"].lower() == x.lower() or i["away"].lower() == x.lower():
             team_dict[x]["games"]["played_games"].append(i)
     for i in not_played:
-        if i["home"].lower() == x.lower() or played_games[ind]["away"].lower() == x.lower():
+        if i["home"].lower() == x.lower() or i["away"].lower() == x.lower():
             team_dict[x]["games"]["upcoming_games"].append(i)
-
 
 if print_all_played_games != 0:
     print(f"Played games: {len(played_games)}")
