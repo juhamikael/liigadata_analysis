@@ -1,6 +1,8 @@
 # -*- coding: cp1252 -*-
 
 from re import A
+from datetime import datetime, timedelta
+import pytz
 import requests
 import json
 import os
@@ -19,42 +21,78 @@ def return_goals(data, team):
     return team_id["goals"]
 
 
+# def change_time(date: str):
+#     print("D: ", date)
+#     year = int(date[0:4])
+#     month = int(date[5:7])
+#     day = int(date[8:10])
+#     return datetime(year, month, day)
+
+
 def return_results(*argv):
     data: dict = argv[0]
     home_team = "homeTeam"
     away_team = "awayTeam"
     winner = ""
-    full_date = data["game"]["start"]
+    date = data["game"]["start"][0:10]
     game_id = data["game"]["id"]
-    date = full_date.split("T")
-    time = date[1][:-4]
-    calendar_date = date[0]
     home_team_id = return_team(data, home_team)
     away_team_id = return_team(data, away_team)
     home_team_goals = return_goals(data, home_team)
     away_team_goals = return_goals(data, away_team)
+    karpat = "kärpät"
+    assat = "ässät"
+    if home_team_id.lower() == karpat:
+        home_team_id = "karpat"
+    if away_team_id.lower() == karpat:
+        away_team_id = "karpat"
+    if home_team_id.lower() == assat:
+        home_team_id = "assat"
+    if away_team_id.lower() == assat:
+        away_team_id = "assat"
     if home_team_goals > away_team_goals:
         winner = home_team_id
     elif home_team_goals < away_team_goals:
         winner = away_team_id
-
     dict_to_return = {
         "Game ID": game_id,
-        "Date": calendar_date,
-        "Time": time,
-        "Home": home_team_id,
-        "Away": away_team_id,
+        "Date": date,
+        "Home": home_team_id.lower(),
+        "Away": away_team_id.lower(),
         f"Home team goals": home_team_goals,
         f"Away team goals": away_team_goals,
-        "Winner": winner}
+        "Winner": winner.lower()}
+
     if len(argv) == 1:
         return dict_to_return
     if len(argv) == 2:
         # print(dict_to_return["Home"])
         team_name = argv[1]
-
         if dict_to_return["Home"].lower() == team_name or dict_to_return["Away"].lower() == team_name:
             return dict_to_return
+
+
+def return_team_results(data: list):
+    name = data["slug"]
+    standing = "standings_ranking"
+    pts = "points"
+    games = "games"
+    pts_game = "points_per_game"
+    games_won = "games_won"
+    games_lost = "games_lost"
+    games_tied = "games_tied"
+    ot_wins = "ot_ps_won"
+    ot_loses = "ot_ps_lost"
+    pp_percentage = "powerplay_percentage"
+    pp_goals = "powerplay_goals_for"
+    dict_to_return = {
+        "results": dict(name=name, standings_ranking=data[standing], points=data[pts],
+                        games_played=data[games], points_per_game=data[pts_game], games_won=data[games_won],
+                        games_lost=data[games_lost], games_tied=data[games_tied], ot_ps_won=data[ot_wins],
+                        ot_ps_lost=data[ot_loses], powerplay_percentage=data[pp_percentage],
+                        powerplay_goals_for=data[pp_goals])
+    }
+    return dict_to_return
 
 
 def fetch_data(*argv):
@@ -94,21 +132,21 @@ def return_league_table(url):
 
 
 def team_list():
-    return ["HIFK",
-            "HPK",
-            "Ilves",
-            "Jukurit",
-            "JYP",
-            "KalPa",
-            "KooKoo",
-            "Kärpät",
-            "Lukko",
-            "Pelicans",
-            "SaiPa",
-            "Sport",
-            "Tappara",
-            "TPS",
-            "Ässät"]
+    return ["hifk",
+            "hpk",
+            "ilves",
+            "jukurit",
+            "jyp",
+            "kalPa",
+            "kookoo",
+            "karpat",
+            "lukko",
+            "pelicans",
+            "saipa",
+            "sport",
+            "tappara",
+            "tps",
+            "assat"]
 
 
 def team_list_utf8():

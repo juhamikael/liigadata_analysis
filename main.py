@@ -1,15 +1,14 @@
 # -*- coding: cp1252 -*-
-from functions import fetch_data, write_json, return_results, return_team
-from functions import return_league_table, team_list, team_list_utf8
-from teams import team_dict
+from liiga_function_library import fetch_data, write_json, return_results, return_team_results
+from liiga_function_library import return_league_table, team_list
+from teams import team_dict, team_dict_lower
 import json
 import pandas as pd
-from datetime import date
 
 ####
-fetch_game_data = 0
+fetch_game_data = 1
 print_all_played_games = 0
-write_json_file = 0
+write_json_file = 1
 teams = team_list()
 # Fetching league data
 league_table_url = "https://liiga.fi/api/v1/teams/stats/2022/runkosarja/"
@@ -58,16 +57,26 @@ played_games = []
 not_played = []
 #
 
+
 for i in range(1, len(all_games)):
     if return_results(all_games[i])["Winner"] == "":
         not_played.append(return_results(all_games[i]))
     else:
         played_games.append(return_results(all_games[i]))
+
+
 z = 1
-for x in teams:
+
+# print(played_games[5]["Away"].lower())
+
+for ind, x  in enumerate(teams):
     for i in played_games:
-        if i["Home"].lower() == x.lower() or played_games[5]["Away"].lower() == x.lower():
+        if i["Home"].lower() == x.lower() or played_games[ind]["Away"].lower() == x.lower():
             team_dict[x]["games"]["played_games"].append(i)
+    for i in not_played:
+        if i["Home"].lower() == x.lower() or played_games[ind]["Away"].lower() == x.lower():
+            team_dict[x]["games"]["upcoming_games"].append(i)
+
 
 if print_all_played_games != 0:
     print(f"Played games: {len(played_games)}")
@@ -79,51 +88,27 @@ if print_all_played_games != 0:
         else:
             print(i)
 
-if write_json_file != 0:
-    write_json('./team_results/', f'team_dict.json', team_dict)
+team_result_data = []
+for x in range(len(teams)):
+    team_result_data.append(return_team_results(league_table[x]))
+for x in team_result_data:
+    print(x)
 
 ####
+
+for x in team_dict_lower:
+    team_name = x
+    for ind in range(15):
+        if team_result_data[ind]['results']["name"] == x:
+            team_dict_lower[x]['results'] = team_result_data[ind]['results']
+            print(f"{team_name}")
+
+if write_json_file != 0:
+    write_json('./team_results/', f'team_dict.json', team_dict_lower)
+
 # print(type(played_games))
 df = pd.DataFrame(played_games)
 df = df.sort_values("Game ID")
 df.to_excel("output.xlsx")
 
 ####
-
-
-team_dictionary = []
-team_name = "slug"
-rank = "standings_ranking"
-played_games = "games"
-points = "points"
-points_per_game = "points_per_game"
-games_won = "games_won"
-games_lost = "games_lost"
-games_tied = "games_tied"
-ot_wins = "ot_ps_won"
-ot_loses = "ot_ps_lost"
-pp_percentage = "powerplay_percentage"
-pp_goals = "powerplay_goals_for"
-
-parsing_data = [
-    team_name,
-    rank,
-    played_games,
-    points,
-    points_per_game,
-    games_won,
-    games_lost,
-    games_tied,
-    ot_wins,
-    ot_loses,
-    pp_percentage,
-    pp_goals
-]
-utf_team_list = team_list_utf8()
-
-# print(team_dict["Ilves"]["results"][i])
-for x in range(len(league_table)):
-    for i in parsing_data:
-        print(f"{i} : {league_table[x][i]}")
-    print("\n\n\n")
-
