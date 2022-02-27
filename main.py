@@ -8,9 +8,8 @@ import pandas as pd
 
 ####
 fetch_game_data = 0
-print_all_played_games = 0
-write_json_file = 1
-write_excel_file = 1
+print_all_played_games = 1
+write_data_files = 0
 teams = team_list()
 # Fetching league data
 league_table_url = "https://liiga.fi/api/v1/teams/stats/2022/runkosarja/"
@@ -98,7 +97,7 @@ for x in team_dict_lower:
 
 
 
-if write_json_file != 0:
+if write_data_files != 0:
     write_files(team_dict_lower, teams)
 
 # df.to_excel(f"./team_results/{i}/{i}_data.xlsx")
