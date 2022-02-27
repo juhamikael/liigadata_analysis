@@ -1,6 +1,8 @@
 # -*- coding: cp1252 -*-
+import itertools
+
 from liiga_function_library import fetch_data, write_json, return_results, return_team_results
-from liiga_function_library import return_league_table, team_list
+from liiga_function_library import return_league_table, team_list, write_files
 from teams import team_dict, team_dict_lower
 import json
 import pandas as pd
@@ -8,7 +10,8 @@ import pandas as pd
 ####
 fetch_game_data = 0
 print_all_played_games = 0
-write_json_file = 0
+write_json_file = 1
+write_excel_file = 1
 teams = team_list()
 # Fetching league data
 league_table_url = "https://liiga.fi/api/v1/teams/stats/2022/runkosarja/"
@@ -95,14 +98,10 @@ for x in team_dict_lower:
 
 
 
+
 if write_json_file != 0:
-    write_json('./team_results/', f'all_teams_data.json', team_dict_lower)
-    for i in teams:
-        write_json('./team_results/', f'{i}_data.json', team_dict_lower[i])
+    write_files(team_dict_lower, teams)
 
-
-df = pd.DataFrame(played_games)
-df = df.sort_values("game_id")
-df.to_excel("output.xlsx")
+# df.to_excel(f"./team_results/{i}/{i}_data.xlsx")
 
 ####

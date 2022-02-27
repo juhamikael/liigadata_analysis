@@ -6,6 +6,7 @@ import pytz
 import requests
 import json
 import os
+import pandas as pd
 from concurrent.futures import as_completed
 from requests_futures.sessions import FuturesSession
 
@@ -159,3 +160,27 @@ def team_list_utf8():
             x = "karpat"
         team_list_as_utf8.append(x)
     return team_list_as_utf8
+
+
+def write_files(data_dict: dict, teams_list: list):
+    write_json('./team_results/', f'all_teams_data.json', data_dict)
+    for i in teams_list:
+        write_json(f'./team_results/{i}/', f'json_{i}_0_data.json', data_dict[i])
+    for i in teams_list:
+        played_games = data_dict[i]['games']['played_games']
+        upcoming_games = data_dict[i]['games']['upcoming_games']
+        results = data_dict[i]['results']
+
+        played_games_df = pd.DataFrame(played_games).sort_values("game_id")
+        upcoming_games_df = pd.DataFrame(upcoming_games).sort_values("game_id")
+        results_transposed = pd.DataFrame(results, index=[0]).T
+        ##########
+        played_games_df.to_excel(f"./team_results/{i}/xlsx_{i}_1_played_games_data.xlsx")
+        write_json(f'./team_results/{i}/', f'json_{i}_1_played_games_data.json', played_games)
+        ##########
+        upcoming_games_df.to_excel(f"./team_results/{i}/xlsx_{i}_2_upcoming_games_data.xlsx")
+        write_json(f'./team_results/{i}/', f'json_{i}_2_upcoming_games_data.json', upcoming_games)
+        ##########
+        results_transposed.to_excel(f"./team_results/{i}/xlsx_{i}_3_results_data.xlsx")
+        write_json(f'./team_results/{i}/', f'json_{i}_3_results.json', results)
+        ##########

@@ -1,0 +1,83 @@
+[
+  {
+    "game_id": 315,
+    "date": "2022-03-18",
+    "home": "tappara",
+    "away": "karpat",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 324,
+    "date": "2022-03-16",
+    "home": "karpat",
+    "away": "tappara",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 398,
+    "date": "2022-03-15",
+    "home": "tappara",
+    "away": "pelicans",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 417,
+    "date": "2022-03-08",
+    "home": "tappara",
+    "away": "sport",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 416,
+    "date": "2022-03-05",
+    "home": "tps",
+    "away": "tappara",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 423,
+    "date": "2022-03-10",
+    "home": "tappara",
+    "away": "lukko",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 435,
+    "date": "2022-03-12",
+    "home": "kalpa",
+    "away": "tappara",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 441,
+    "date": "2022-03-19",
+    "home": "lukko",
+    "away": "tappara",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 450,
+    "date": "2022-03-22",
+    "home": "tappara",
+    "away": "assat",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "game_id": 382,
+    "date": "2022-03-18",
+    "home": "saipa",
+    "away": "jukurit",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 399,
+    "date": "2022-03-02",
+    "home": "hifk",
+    "away": "saipa",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 414,
+    "date": "2022-03-05",
+    "home": "saipa",
+    "away": "jyp",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 419,
+    "date": "2022-03-09",
+    "home": "ilves",
+    "away": "saipa",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 410,
+    "date": "2022-03-04",
+    "home": "pelicans",
+    "away": "saipa",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 426,
+    "date": "2022-03-11",
+    "home": "jukurit",
+    "away": "saipa",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 432,
+    "date": "2022-03-12",
+    "home": "saipa",
+    "away": "kookoo",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 437,
+    "date": "2022-03-19",
+    "home": "hpk",
+    "away": "saipa",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 448,
+    "date": "2022-03-22",
+    "home": "saipa",
+    "away": "tps",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  }
+]
