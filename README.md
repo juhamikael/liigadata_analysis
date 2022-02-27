@@ -1,5 +1,7 @@
-# liigadata_analysis
+# 
+
+# WIP - Liigadata_analysis
 
 ```
-pip install -r requirements.txt
+run file 0 pip install.bat
 ```
