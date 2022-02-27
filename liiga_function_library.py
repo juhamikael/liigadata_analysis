@@ -136,7 +136,7 @@ def team_list():
             "ilves",
             "jukurit",
             "jyp",
-            "kalPa",
+            "kalpa",
             "kookoo",
             "karpat",
             "lukko",
