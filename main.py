@@ -6,7 +6,7 @@ import json
 import pandas as pd
 
 ####
-fetch_game_data = 1
+fetch_game_data = 0
 print_all_played_games = 0
 write_json_file = 1
 teams = team_list()
@@ -59,7 +59,7 @@ not_played = []
 
 
 for i in range(1, len(all_games)):
-    if return_results(all_games[i])["Winner"] == "":
+    if return_results(all_games[i])["winner"] == "":
         not_played.append(return_results(all_games[i]))
     else:
         played_games.append(return_results(all_games[i]))
@@ -71,10 +71,10 @@ z = 1
 
 for ind, x  in enumerate(teams):
     for i in played_games:
-        if i["Home"].lower() == x.lower() or played_games[ind]["Away"].lower() == x.lower():
+        if i["home"].lower() == x.lower() or played_games[ind]["away"].lower() == x.lower():
             team_dict[x]["games"]["played_games"].append(i)
     for i in not_played:
-        if i["Home"].lower() == x.lower() or played_games[ind]["Away"].lower() == x.lower():
+        if i["home"].lower() == x.lower() or played_games[ind]["away"].lower() == x.lower():
             team_dict[x]["games"]["upcoming_games"].append(i)
 
 
@@ -108,7 +108,7 @@ if write_json_file != 0:
 
 # print(type(played_games))
 df = pd.DataFrame(played_games)
-df = df.sort_values("Game ID")
+df = df.sort_values("game_id")
 df.to_excel("output.xlsx")
 
 ####

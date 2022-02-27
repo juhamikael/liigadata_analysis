@@ -55,13 +55,13 @@ def return_results(*argv):
     elif home_team_goals < away_team_goals:
         winner = away_team_id
     dict_to_return = {
-        "Game ID": game_id,
-        "Date": date,
-        "Home": home_team_id.lower(),
-        "Away": away_team_id.lower(),
-        f"Home team goals": home_team_goals,
-        f"Away team goals": away_team_goals,
-        "Winner": winner.lower()}
+        "game_id": game_id,
+        "date": date,
+        "home": home_team_id.lower(),
+        "away": away_team_id.lower(),
+        f"home_team_goals": home_team_goals,
+        f"away_team_goals": away_team_goals,
+        "winner": winner.lower()}
 
     if len(argv) == 1:
         return dict_to_return
