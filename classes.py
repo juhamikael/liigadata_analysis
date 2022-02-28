@@ -75,9 +75,9 @@ class CMD_Program:
                   f"3 - Show league table data\n")
             inspect_data_choice = self.choose_data_to_show()
 
-            print("Played games", played_games_data)
-            print("Upcoming games", upcoming_games_data)
-            print("Results", results_data)
+            # print("Played games", played_games_data)
+            # print("Upcoming games", upcoming_games_data)
+            # print("Results", results_data)
             if inspect_data_choice == 1:
                 inspect_data_choice = [played_games_data,
                                        f"\n\nShowing played games by: {team.upper()}",

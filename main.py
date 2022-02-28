@@ -10,7 +10,7 @@ import json
 # Setting uo project and data
 # If any of the values below is changed to 1 from 0
 # it's going to do exactly that what variable name is
-request_game_data = 1
+request_game_data = 0
 print_all_played_games = 0
 write_data_files = 0
 start_ui = 1
