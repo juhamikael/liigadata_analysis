@@ -4,4 +4,5 @@ requests
 requests-futures
 html5lib
 openpyxl
+prettytable
 

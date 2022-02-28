@@ -7,6 +7,8 @@ import os
 import pandas as pd
 from concurrent.futures import as_completed
 from requests_futures.sessions import FuturesSession
+from prettytable import PrettyTable
+
 
 
 def return_team(data, team):
@@ -182,3 +184,12 @@ def write_files(data_dict: dict, teams_list: list):
         results_transposed.to_excel(f"./team_results/{i}/xlsx_{i}_3_results_data.xlsx")
         write_json(f'./team_results/{i}/', f'json_{i}_3_results.json', results)
         ##########
+
+
+def return_team_table(team_list:list):
+    myTable = PrettyTable(["index", "team"])
+    for ind,val in enumerate(team_list):
+        myTable.add_row([ind, val])
+    myTable.align = "l"
+    myTable.align["index"] = "c"
+    return myTable

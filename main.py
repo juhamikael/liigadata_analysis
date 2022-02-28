@@ -2,18 +2,22 @@
 
 from liiga_function_library import fetch_data, write_json, return_results, return_team_results
 from liiga_function_library import return_league_table, team_list, write_files
+from liiga_function_library import return_team_table
 from teams import team_dict, team_dict_lower
 import json
 import pandas as pd
+import time
+import os
 
 ####
 fetch_game_data = 0
-print_all_played_games = 1
+print_all_played_games = 0
 write_data_files = 0
 teams = team_list()
 # Fetching league data
 league_table_url = "https://liiga.fi/api/v1/teams/stats/2022/runkosarja/"
 league_table = return_league_table(league_table_url)
+clear_console = lambda: os.system('cls' if os.name in ('nt', 'dos') else 'clear')
 ####
 
 
@@ -93,12 +97,61 @@ for x in team_dict_lower:
         if team_result_data[ind]['results']["name"] == x:
             team_dict_lower[x]['results'] = team_result_data[ind]['results']
 
-
-
-
-
 if write_data_files != 0:
     write_files(team_dict_lower, teams)
+
+team_table = return_team_table(teams)
+
+##
+# WORK IN PROGRESS
+time.sleep(2)
+clear_console()
+while True:
+    print(team_table)
+    team_choice = int(input("CHOOSE TEAM FROM TABLE ABOVE (0-14) : "))
+    while True:
+        if team_choice > 14 or team_choice < 0:
+            team_choice = int(input("CHOOSE TEAM FROM TABLE ABOVE (0-14) : "))
+        else:
+            break
+    team = teams[team_choice]
+    played_games_data = team_dict_lower[team]['games']['played_games']
+    upcoming_games_data = team_dict_lower[team]['games']['upcoming_games']
+    results_data = team_dict_lower[team]['results']
+    print(f"\n{team.upper()}")
+    print(f"\nCHOOSE DATA TO SHOW(1-3) : \n"
+          f"1 - Show played games\n"
+          f"2 - Show upcoming games\n"
+          f"3 - Show league table data\n")
+    inspect_data_choise = int(input())
+    while True:
+        if inspect_data_choise < 1 or inspect_data_choise > 3:
+            inspect_data_choise = int(input("CHOOSE DATA TO SHOW(0-3) : "))
+        else:
+            break
+    if inspect_data_choise == 0:
+        break
+    elif inspect_data_choise == 1:
+        print(f"\n\nShowing played games by: {team.upper()}", )
+        new_df = pd.DataFrame(played_games_data)
+        print(new_df)
+    elif inspect_data_choise == 2:
+        print(f"\n\nShowing upcoming games by: {team.upper()}")
+        new_df = pd.DataFrame(upcoming_games_data)
+        print(new_df)
+    elif inspect_data_choise == 3:
+        print(f"\n\nShowing league table data by: {team.upper()}")
+        new_df = pd.DataFrame(results_data, index=[""]).T
+        print(new_df)
+    stop = input("\n\n\nExit? y/n ")
+    if stop.lower() == "y" or stop.lower() == "":
+        break
+    else:
+        pass
+
+    print("\n\n---Clearing console\n\n")
+    time.sleep(1)
+    clear_console()
 
 # df.to_excel(f"./team_results/{i}/{i}_data.xlsx")
 
