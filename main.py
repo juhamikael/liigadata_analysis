@@ -1,37 +1,31 @@
 # -*- coding: cp1252 -*-
 
-from liiga_function_library import fetch_data, write_json, return_results, return_team_results
-from liiga_function_library import return_league_table, team_list, write_files
-from liiga_function_library import return_team_table,command_line_ui
+from liiga_function_library import fetch_games_data, return_results, return_team_results
+from liiga_function_library import write_files, return_league_table
 from teams import team_dict, team_dict_lower
+from classes import CMD_Program, Teams
 import json
-import pandas as pd
 
 ####################################################
 # Setting uo project and data
 # If any of the values below is changed to 1 from 0
 # it's going to do exactly that what variable name is
-fetch_game_data = 0
+request_game_data = 1
 print_all_played_games = 0
 write_data_files = 0
-start_ui = 0
-teams = team_list()
+start_ui = 1
+teams_class = Teams()
+teams_list = teams_class.return_all_teams_as_list()
+
 ####################################################
 
 
 ####################################################
-#
 # if fetch_game_data = 1, fetching league table data
-league_table_url = "https://liiga.fi/api/v1/teams/stats/2022/runkosarja/"
-league_table = return_league_table(league_table_url)
+league_table = return_league_table("https://liiga.fi/api/v1/teams/stats/2022/runkosarja/")
 # and game result data
-first_game = 1
-last_game = 451
-if fetch_game_data != 0:
-    url = f"https://liiga.fi/api/v1/games/2022/"
-    game_data_list = fetch_data(url, first_game, last_game)
-    for i in range(1, len(game_data_list)): write_json('./game_data/', f'game{i}.json', game_data_list[i])
-
+if request_game_data != 0:
+    fetch_games_data("https://liiga.fi/api/v1/games/2022/")
 ####################################################
 
 
@@ -73,7 +67,7 @@ for i in range(1, len(all_games)):
     else:
         played_games.append(return_results(all_games[i]))
 
-for ind, x in enumerate(teams):
+for ind, x in enumerate(teams_list):
     for i in played_games:
         if i["home"].lower() == x.lower() or i["away"].lower() == x.lower():
             team_dict[x]["games"]["played_games"].append(i)
@@ -98,9 +92,8 @@ if print_all_played_games != 0:
 ####################################################
 
 team_result_data = []
-for x in range(len(teams)):
+for x in range(len(teams_list)):
     team_result_data.append(return_team_results(league_table[x]))
-
 
 for x in team_dict_lower:
     team_name = x
@@ -109,14 +102,12 @@ for x in team_dict_lower:
             team_dict_lower[x]['results'] = team_result_data[ind]['results']
 
 if write_data_files != 0:
-    write_files(team_dict_lower, teams)
-
+    write_files(team_dict_lower, teams_list)
 
 # WORK IN PROGRESS
 if start_ui != 0:
-    start = input("Wanna start CMD program? y/n ")
-    if start.lower() == "y" or start == "":
-        command_line_ui(team_dict_lower)
+    start_program = CMD_Program(team_dict_lower)
+    start_program.start()
 
 # df.to_excel(f"./team_results/{i}/{i}_data.xlsx")
 ####
