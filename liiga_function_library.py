@@ -1,14 +1,13 @@
 # -*- coding: cp1252 -*-
 
-from re import A
 import requests
 import json
-import os
 import pandas as pd
 from concurrent.futures import as_completed
 from requests_futures.sessions import FuturesSession
 from prettytable import PrettyTable
-
+import time
+import os
 
 
 def return_team(data, team):
@@ -126,8 +125,10 @@ def write_json(target_path, target_file, data):
 def return_league_table(url):
     league_table = []
     league_table_data = fetch_data(url)
-    for i in league_table_data: league_table.append(i)
-    for i in range(len(league_table)): write_json('./league_table_data/', f'team{i + 1}.json', league_table[i])
+    for i in league_table_data:
+        league_table.append(i)
+    for i in range(len(league_table)):
+        write_json('./league_table_data/', f'team{i + 1}.json', league_table[i])
     return league_table
 
 
@@ -165,31 +166,95 @@ def team_list_utf8():
 def write_files(data_dict: dict, teams_list: list):
     write_json('./team_results/', f'all_teams_data.json', data_dict)
     for i in teams_list:
-        write_json(f'./team_results/{i}/', f'json_{i}_0_data.json', data_dict[i])
+        write_json(f'./team_results/{i}/', f'data_{i}_0.json', data_dict[i])
     for i in teams_list:
         played_games = data_dict[i]['games']['played_games']
         upcoming_games = data_dict[i]['games']['upcoming_games']
         results = data_dict[i]['results']
-
         played_games_df = pd.DataFrame(played_games).sort_values("game_id")
         upcoming_games_df = pd.DataFrame(upcoming_games).sort_values("game_id")
         results_transposed = pd.DataFrame(results, index=[0]).T
         ##########
         played_games_df.to_excel(f"./team_results/{i}/xlsx_{i}_1_played_games_data.xlsx")
-        write_json(f'./team_results/{i}/', f'json_{i}_1_played_games_data.json', played_games)
+        write_json(f'./team_results/{i}/', f'data_{i}_1_played_games_data.json', played_games)
         ##########
         upcoming_games_df.to_excel(f"./team_results/{i}/xlsx_{i}_2_upcoming_games_data.xlsx")
-        write_json(f'./team_results/{i}/', f'json_{i}_2_upcoming_games_data.json', upcoming_games)
+        write_json(f'./team_results/{i}/', f'data_{i}_2_upcoming_games_data.json', upcoming_games)
         ##########
         results_transposed.to_excel(f"./team_results/{i}/xlsx_{i}_3_results_data.xlsx")
-        write_json(f'./team_results/{i}/', f'json_{i}_3_results.json', results)
+        write_json(f'./team_results/{i}/', f'data_{i}_3_results.json', results)
         ##########
 
 
-def return_team_table(team_list:list):
-    myTable = PrettyTable(["index", "team"])
-    for ind,val in enumerate(team_list):
-        myTable.add_row([ind, val])
-    myTable.align = "l"
-    myTable.align["index"] = "c"
-    return myTable
+def return_team_table(teams_list: list):
+    my_table = PrettyTable(["index", "team"])
+    for ind, val in enumerate(teams_list):
+        my_table.add_row([ind, val])
+    my_table.align = "l"
+    my_table.align["index"] = "c"
+    return my_table
+
+
+def clear_console():
+    return os.system('cls' if os.name in ('nt', 'dos') else 'clear')
+
+
+def command_line_ui(team_dict_lower):
+    teams = team_list()
+    team_table = return_team_table(teams)
+    clear_console()
+
+    while True:
+        print(team_table)
+        team_choice = int(input("CHOOSE TEAM FROM TABLE ABOVE (0-14) : "))
+        while True:
+            if team_choice > 14 or team_choice < 0:
+                team_choice = int(input("CHOOSE TEAM FROM TABLE ABOVE (0-14) : "))
+            else:
+                break
+        team = teams[team_choice]
+
+        played_games_data = team_dict_lower[team]['games']['played_games']
+        upcoming_games_data = team_dict_lower[team]['games']['upcoming_games']
+        results_data = team_dict_lower[team]['results']
+
+        print(f"\n{team.upper()}")
+        print(f"\nCHOOSE DATA TO SHOW(1-3) : \n"
+              f"1 - Show played games\n"
+              f"2 - Show upcoming games\n"
+              f"3 - Show league table data\n")
+        inspect_data_choice = int(input())
+        while True:
+            if inspect_data_choice < 1 or inspect_data_choice > 3:
+                inspect_data_choice = int(input("CHOOSE DATA TO SHOW(0-3) : "))
+            else:
+                break
+        if inspect_data_choice == 1:
+            print(f"\n\nShowing played games by: {team.upper()}", )
+            df = pd.DataFrame(played_games_data)
+            print(df)
+        elif inspect_data_choice == 2:
+            print(f"\n\nShowing upcoming games by: {team.upper()}")
+            df = pd.DataFrame(upcoming_games_data)
+            print(df)
+        elif inspect_data_choice == 3:
+            print(f"\n\nShowing league table data by: {team.upper()}")
+            df = pd.DataFrame(results_data, index=[""]).T
+            print(df)
+
+        stop = input("\n\n\nExit? y/n ")
+        if stop == "y":
+            break
+        elif stop == "n":
+            pass
+        elif stop != "n" or stop == "y":
+            while True:
+                stop = input("Exit? y/n ")
+                if stop == "y" or stop == "n":
+                    break
+                else:
+                    pass
+
+        print("\n\n---Clearing console\n\n")
+        time.sleep(1)
+        clear_console()

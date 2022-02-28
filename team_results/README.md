@@ -1,6 +1,5 @@
 ## Team Results
 
-
 ### NOTE: Update 27.2.2022
 ---
 There is **31** API Requests which return **"Remote server error"** when fetching games data from
