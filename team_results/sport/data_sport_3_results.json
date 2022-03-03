@@ -1,14 +1,1 @@
-{
-  "name": "sport",
-  "standings_ranking": 12,
-  "points": 63,
-  "games_played": 48,
-  "points_per_game": "1.312",
-  "games_won": 15,
-  "games_lost": 21,
-  "games_tied": 12,
-  "ot_ps_won": 6,
-  "ot_ps_lost": 6,
-  "powerplay_percentage": "14.72",
-  "powerplay_goals_for": 24
-}
+{"name": "sport", "standings_ranking": 12, "points": 63, "games_played": 48, "points_per_game": "1.312", "games_won": 15, "games_lost": 21, "games_tied": 12, "ot_ps_won": 6, "ot_ps_lost": 6, "powerplay_percentage": "14.72", "powerplay_goals_for": 24}

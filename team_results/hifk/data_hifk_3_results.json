@@ -1,14 +1,1 @@
-{
-  "name": "hifk",
-  "standings_ranking": 6,
-  "points": 80,
-  "games_played": 48,
-  "points_per_game": "1.667",
-  "games_won": 22,
-  "games_lost": 16,
-  "games_tied": 10,
-  "ot_ps_won": 4,
-  "ot_ps_lost": 6,
-  "powerplay_percentage": "25.60",
-  "powerplay_goals_for": 32
-}
+{"name": "hifk", "standings_ranking": 6, "points": 80, "games_played": 48, "points_per_game": "1.667", "games_won": 22, "games_lost": 16, "games_tied": 10, "ot_ps_won": 4, "ot_ps_lost": 6, "powerplay_percentage": "25.60", "powerplay_goals_for": 32}

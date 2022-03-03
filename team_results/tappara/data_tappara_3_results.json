@@ -1,14 +1,1 @@
-{
-  "name": "tappara",
-  "standings_ranking": 1,
-  "points": 93,
-  "games_played": 50,
-  "points_per_game": "1.860",
-  "games_won": 26,
-  "games_lost": 15,
-  "games_tied": 9,
-  "ot_ps_won": 6,
-  "ot_ps_lost": 3,
-  "powerplay_percentage": "16.55",
-  "powerplay_goals_for": 24
-}
+{"name": "tappara", "standings_ranking": 2, "points": 93, "games_played": 50, "points_per_game": "1.860", "games_won": 26, "games_lost": 15, "games_tied": 9, "ot_ps_won": 6, "ot_ps_lost": 3, "powerplay_percentage": "16.55", "powerplay_goals_for": 24}

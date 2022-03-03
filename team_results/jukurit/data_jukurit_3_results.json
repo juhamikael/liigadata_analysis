@@ -1,14 +1,1 @@
-{
-  "name": "jukurit",
-  "standings_ranking": 2,
-  "points": 93,
-  "games_played": 51,
-  "points_per_game": "1.824",
-  "games_won": 25,
-  "games_lost": 15,
-  "games_tied": 11,
-  "ot_ps_won": 7,
-  "ot_ps_lost": 4,
-  "powerplay_percentage": "21.57",
-  "powerplay_goals_for": 33
-}
+{"name": "jukurit", "standings_ranking": 3, "points": 93, "games_played": 51, "points_per_game": "1.824", "games_won": 25, "games_lost": 15, "games_tied": 11, "ot_ps_won": 7, "ot_ps_lost": 4, "powerplay_percentage": "21.57", "powerplay_goals_for": 33}

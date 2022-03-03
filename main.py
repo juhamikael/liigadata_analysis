@@ -3,7 +3,7 @@
 from liiga_function_library import fetch_games_data, return_results, return_team_results
 from liiga_function_library import write_files, return_league_table
 from teams import team_dict, team_dict_lower
-from classes import CMD_Program, Teams
+from classes import CMD_Program, Teams, Players
 import json
 
 ####################################################
@@ -13,7 +13,7 @@ import json
 request_game_data = 0
 print_all_played_games = 0
 write_data_files = 0
-start_ui = 1
+start_ui = 0
 teams_class = Teams()
 teams_list = teams_class.return_all_teams_as_list()
 
@@ -109,5 +109,8 @@ if start_ui != 0:
     start_program = CMD_Program(team_dict_lower)
     start_program.start()
 
+players = Players()
+# players.print_data()
+players.write_player_data_files()
 # df.to_excel(f"./team_results/{i}/{i}_data.xlsx")
 ####

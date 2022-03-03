@@ -9,6 +9,8 @@ from classes import Teams
 import os
 
 
+
+
 def return_results(*argv):
     data: dict = argv[0]
     teams = Teams(data)

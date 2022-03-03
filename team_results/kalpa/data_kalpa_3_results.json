@@ -1,14 +1,1 @@
-{
-  "name": "kalpa",
-  "standings_ranking": 10,
-  "points": 76,
-  "games_played": 51,
-  "points_per_game": "1.490",
-  "games_won": 16,
-  "games_lost": 16,
-  "games_tied": 19,
-  "ot_ps_won": 9,
-  "ot_ps_lost": 10,
-  "powerplay_percentage": "25.41",
-  "powerplay_goals_for": 46
-}
+{"name": "kalpa", "standings_ranking": 11, "points": 76, "games_played": 51, "points_per_game": "1.490", "games_won": 16, "games_lost": 16, "games_tied": 19, "ot_ps_won": 9, "ot_ps_lost": 10, "powerplay_percentage": "25.41", "powerplay_goals_for": 46}

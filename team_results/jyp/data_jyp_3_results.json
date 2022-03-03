@@ -1,14 +1,1 @@
-{
-  "name": "jyp",
-  "standings_ranking": 15,
-  "points": 46,
-  "games_played": 50,
-  "points_per_game": "0.920",
-  "games_won": 10,
-  "games_lost": 31,
-  "games_tied": 9,
-  "ot_ps_won": 7,
-  "ot_ps_lost": 2,
-  "powerplay_percentage": "19.62",
-  "powerplay_goals_for": 31
-}
+{"name": "jyp", "standings_ranking": 14, "points": 46, "games_played": 50, "points_per_game": "0.920", "games_won": 10, "games_lost": 31, "games_tied": 9, "ot_ps_won": 7, "ot_ps_lost": 2, "powerplay_percentage": "19.62", "powerplay_goals_for": 31}

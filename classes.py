@@ -1,8 +1,10 @@
 # -*- coding: cp1252 -*-
 from prettytable import PrettyTable
 import pandas as pd
+
 import time
 import os
+import requests
 
 
 class CMD_Program:
@@ -64,7 +66,6 @@ class CMD_Program:
             team_choice = self.choose_team()
             team = teams[team_choice]
             print("User choice:", team.capitalize())
-
             played_games_data = self.data[team]['games']['played_games']
             upcoming_games_data = self.data[team]['games']['upcoming_games']
             results_data = self.data[team]['results']
@@ -114,7 +115,6 @@ class Teams:
     def __init__(self, *args):
         if len(args) == 1:
             self.data = args[0]
-
         self.home = "homeTeam"
         self.away = "awayTeam"
         self.teams = ["hifk", "hpk", "ilves", "jukurit", "jyp", "kalpa",
@@ -144,4 +144,58 @@ class Teams:
         return my_table
 
 
+class Players:
+    def get_players_data(self):
+        request = requests.get("https://www.liiga.fi/api/v1/players/stats/2021/runkosarja").json()
+        return request
 
+    def get_player_name(self):
+        pass
+        # file_name = f"./game_data/game{i}.json"
+        # file = open(file_name)
+        # json_dictionary = str(json.load(file))
+        # file.close()
+
+    def write_player_data_files(self):
+        from liiga_function_library import write_json
+        data = self.get_players_data()
+        for i in range(len(data)):
+            base = data[i]
+            team = base['team']
+            name = base['full_name']
+            player_id = base["fiha_id"]
+            played_games = base["games"]
+            goals = base["goals"]
+            assists = base["goals"]
+            shots = base["shots"]
+            points = base["points"]
+            shots_into_goal = base["shots_into_goal"]
+            tournament = base["tournament"]
+            face_off_lost = base["faceoffs_lost"]
+            face_off_won = base["faceoffs_won"]
+            face_off_total = base["faceoffs_total"]
+            if tournament == "runkosarja":
+                tournament = "regular season"
+            player_card = {
+                "team": team.lower(),
+                "name": name.lower(),
+                "player_id": player_id,
+                "played_games": played_games,
+                "goals": goals,
+                "assists": assists,
+                "points": points,
+                "shots": shots,
+                "shots_into_goal": shots_into_goal,
+                "season": tournament,
+                "face_offs_lost": face_off_lost,
+                "face_offs_won": face_off_won,
+                "face_offs_total": face_off_total,
+
+            }
+            write_json(f'./player_data/', f'player_{i + 1}.json', player_card)
+            print(player_card)
+        # write_json(f'./player_data/', f'player_1.json', self.get_players_data()[0])
+
+    def print_data(self):
+        self.write_player_data_files()
+        self.get_player_name()

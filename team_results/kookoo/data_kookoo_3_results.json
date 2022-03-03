@@ -1,14 +1,1 @@
-{
-  "name": "kookoo",
-  "standings_ranking": 9,
-  "points": 76,
-  "games_played": 49,
-  "points_per_game": "1.551",
-  "games_won": 20,
-  "games_lost": 18,
-  "games_tied": 11,
-  "ot_ps_won": 5,
-  "ot_ps_lost": 6,
-  "powerplay_percentage": "15.22",
-  "powerplay_goals_for": 21
-}
+{"name": "kookoo", "standings_ranking": 9, "points": 76, "games_played": 49, "points_per_game": "1.551", "games_won": 20, "games_lost": 18, "games_tied": 11, "ot_ps_won": 5, "ot_ps_lost": 6, "powerplay_percentage": "15.22", "powerplay_goals_for": 21}
