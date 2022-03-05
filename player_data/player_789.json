@@ -1,1 +1,15 @@
-{"team": "karpat", "name": "julius hermonen", "player_id": 24406130, "played_games": 50, "goals": 3, "assists": 3, "points": 11, "shots": 75, "shots_into_goal": 53, "season": "regular season", "face_offs_lost": 0, "face_offs_won": 0, "face_offs_total": 0}
+{
+  "team": "karpat",
+  "name": "julius hermonen",
+  "player_id": 24406130,
+  "played_games": 50,
+  "goals": 3,
+  "assists": 3,
+  "points": 11,
+  "shots": 75,
+  "shots_into_goal": 53,
+  "season": "regular season",
+  "face_offs_lost": 0,
+  "face_offs_won": 0,
+  "face_offs_total": 0
+}

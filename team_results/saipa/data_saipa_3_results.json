@@ -1,1 +1,13 @@
-{"standings_ranking": 14, "points": 50, "games_played": 53, "points_per_game": "0.943", "games_won": 13, "games_lost": 31, "games_tied": 9, "ot_ps_won": 2, "ot_ps_lost": 7, "powerplay_percentage": "16.75", "powerplay_goals_for": 32}
+{
+  "standings_ranking": 14,
+  "points": 50,
+  "games_played": 53,
+  "points_per_game": "0.943",
+  "games_won": 13,
+  "games_lost": 31,
+  "games_tied": 9,
+  "ot_ps_won": 2,
+  "ot_ps_lost": 7,
+  "powerplay_percentage": "16.75",
+  "powerplay_goals_for": 32
+}

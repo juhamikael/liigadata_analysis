@@ -1,1 +1,74 @@
-[{"game_id": 277, "date": "2022-03-15", "home": "jyp", "away": "hifk", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}, {"game_id": 291, "date": "2022-03-09", "home": "tps", "away": "jyp", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}, {"game_id": 355, "date": "2022-03-08", "home": "jyp", "away": "kalpa", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}, {"game_id": 414, "date": "2022-03-05", "home": "saipa", "away": "jyp", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}, {"game_id": 420, "date": "2022-03-17", "home": "lukko", "away": "jyp", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}, {"game_id": 427, "date": "2022-03-11", "home": "kookoo", "away": "jyp", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}, {"game_id": 430, "date": "2022-03-12", "home": "jyp", "away": "ilves", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}, {"game_id": 445, "date": "2022-03-22", "home": "kalpa", "away": "jyp", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}]
+[
+  {
+    "game_id": 277,
+    "date": "2022-03-15",
+    "home": "jyp",
+    "away": "hifk",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 291,
+    "date": "2022-03-09",
+    "home": "tps",
+    "away": "jyp",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 355,
+    "date": "2022-03-08",
+    "home": "jyp",
+    "away": "kalpa",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 414,
+    "date": "2022-03-05",
+    "home": "saipa",
+    "away": "jyp",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 420,
+    "date": "2022-03-17",
+    "home": "lukko",
+    "away": "jyp",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 427,
+    "date": "2022-03-11",
+    "home": "kookoo",
+    "away": "jyp",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 430,
+    "date": "2022-03-12",
+    "home": "jyp",
+    "away": "ilves",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 445,
+    "date": "2022-03-22",
+    "home": "kalpa",
+    "away": "jyp",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  }
+]

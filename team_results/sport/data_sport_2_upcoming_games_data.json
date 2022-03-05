@@ -1,1 +1,56 @@
-[{"game_id": 364, "date": "2022-03-20", "home": "ilves", "away": "sport", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}, {"game_id": 417, "date": "2022-03-08", "home": "tappara", "away": "sport", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}, {"game_id": 415, "date": "2022-03-05", "home": "sport", "away": "hpk", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}, {"game_id": 428, "date": "2022-03-11", "home": "sport", "away": "kalpa", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}, {"game_id": 443, "date": "2022-03-19", "home": "assat", "away": "sport", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}, {"game_id": 449, "date": "2022-03-22", "home": "sport", "away": "ilves", "home_team_goals": 0, "away_team_goals": 0, "winner": ""}]
+[
+  {
+    "game_id": 364,
+    "date": "2022-03-20",
+    "home": "ilves",
+    "away": "sport",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 417,
+    "date": "2022-03-08",
+    "home": "tappara",
+    "away": "sport",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 415,
+    "date": "2022-03-05",
+    "home": "sport",
+    "away": "hpk",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 428,
+    "date": "2022-03-11",
+    "home": "sport",
+    "away": "kalpa",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 443,
+    "date": "2022-03-19",
+    "home": "assat",
+    "away": "sport",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  },
+  {
+    "game_id": 449,
+    "date": "2022-03-22",
+    "home": "sport",
+    "away": "ilves",
+    "home_team_goals": 0,
+    "away_team_goals": 0,
+    "winner": ""
+  }
+]

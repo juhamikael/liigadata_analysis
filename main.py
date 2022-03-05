@@ -125,10 +125,7 @@ if start_ui != 0:
     start_program = CMD_Program(team_dict_lower)
     start_program.start()
 
-#
-# for i in players_list:
-#     if i["team"] == "ilves":
-#         print(i)
+
 # df.to_excel(f"./team_results/{i}/{i}_data.xlsx")
 ####
 
