@@ -1,15 +1,21 @@
 # -*- coding: cp1252 -*-
-
+from datetime import datetime
 from liiga_function_library import team_list
+
+now = datetime.now()
+now = now.strftime("%d-%m-%Y %H:%M")
 teams = team_list()
 team_dict = {}
 for i in teams:
     team_dict[i] = {
         "team_name": i.lower(),
+        "last_updated": now,
         "games": {
             "played_games": [],
             "upcoming_games": []
-        }
+        },
+        "players":[]
+
     }
 def to_lower(dictionary):
     def try_iterate(k):

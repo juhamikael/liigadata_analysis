@@ -1,10 +1,12 @@
 # -*- coding: cp1252 -*-
+import os
 
 from liiga_function_library import fetch_games_data, return_results, return_team_results
 from liiga_function_library import write_files, return_league_table
 from teams import team_dict, team_dict_lower
 from classes import CMD_Program, Teams, Players
 import json
+from ffcount import ffcount
 
 ####################################################
 # Setting uo project and data
@@ -12,11 +14,12 @@ import json
 # it's going to do exactly that what variable name is
 request_game_data = 0
 print_all_played_games = 0
-write_data_files = 0
+write_data_files = 1
 start_ui = 0
 teams_class = Teams()
 teams_list = teams_class.return_all_teams_as_list()
-
+players = Players()
+players_list = players.get_player_data_files()
 ####################################################
 
 
@@ -98,8 +101,21 @@ for x in range(len(teams_list)):
 for x in team_dict_lower:
     team_name = x
     for ind in range(15):
-        if team_result_data[ind]['results']["name"] == x:
+        if team_result_data[ind]['results']['name'] == x:
             team_dict_lower[x]['results'] = team_result_data[ind]['results']
+
+
+for x in team_dict_lower:
+    for index in range(len(players_list)):
+        if players_list[index]["team"] == x:
+            team_dict_lower[x]['players'].append(players_list[index])
+            # print(team_dict_lower[x]['players'])
+
+for i in teams_list:
+    for x in team_dict_lower[i]['players']:
+        del x['team']
+    team_dict_lower[i]["results"].pop("name")
+
 
 if write_data_files != 0:
     write_files(team_dict_lower, teams_list)
@@ -109,8 +125,15 @@ if start_ui != 0:
     start_program = CMD_Program(team_dict_lower)
     start_program.start()
 
-players = Players()
-# players.print_data()
-players.write_player_data_files()
+#
+# for i in players_list:
+#     if i["team"] == "ilves":
+#         print(i)
 # df.to_excel(f"./team_results/{i}/{i}_data.xlsx")
 ####
+
+
+# players_path = "./player_data"
+# player_amount = ffcount(players_path)[0]
+# players = players.read_player_data_files(player_amount)
+# print(type(players))

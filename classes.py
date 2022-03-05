@@ -1,7 +1,7 @@
 # -*- coding: cp1252 -*-
 from prettytable import PrettyTable
 import pandas as pd
-
+import json
 import time
 import os
 import requests
@@ -145,6 +145,9 @@ class Teams:
 
 
 class Players:
+    # def __init__(self, player_amount: list):
+    #     self.player_amount =
+
     def get_players_data(self):
         request = requests.get("https://www.liiga.fi/api/v1/players/stats/2021/runkosarja").json()
         return request
@@ -156,13 +159,25 @@ class Players:
         # json_dictionary = str(json.load(file))
         # file.close()
 
-    def write_player_data_files(self):
+    @staticmethod
+    def replace_nordics(user_input):
+        if "ä" in str(user_input):
+            fixed_string = user_input.replace("ä", "a")
+        elif "ö" in str(user_input):
+            fixed_string = user_input.replace("ö", "o")
+        else:
+            return user_input
+
+        return fixed_string
+
+    def get_player_data_files(self):
         from liiga_function_library import write_json
         data = self.get_players_data()
+        players_list = []
         for i in range(len(data)):
             base = data[i]
-            team = base['team']
-            name = base['full_name']
+            team = self.replace_nordics(str(base['team'].lower()))
+            name = self.replace_nordics(str(base['full_name'].lower()))
             player_id = base["fiha_id"]
             played_games = base["games"]
             goals = base["goals"]
@@ -177,8 +192,8 @@ class Players:
             if tournament == "runkosarja":
                 tournament = "regular season"
             player_card = {
-                "team": team.lower(),
-                "name": name.lower(),
+                "team": team,
+                "name": name,
                 "player_id": player_id,
                 "played_games": played_games,
                 "goals": goals,
@@ -190,12 +205,15 @@ class Players:
                 "face_offs_lost": face_off_lost,
                 "face_offs_won": face_off_won,
                 "face_offs_total": face_off_total,
-
             }
-            write_json(f'./player_data/', f'player_{i + 1}.json', player_card)
-            print(player_card)
+            if played_games == 0:
+                pass
+            else:
+                players_list.append(player_card)
+                write_json(f'./player_data/', f'player_{i + 1}.json', player_card)
+        return players_list
         # write_json(f'./player_data/', f'player_1.json', self.get_players_data()[0])
 
     def print_data(self):
-        self.write_player_data_files()
+        self.get_player_data_files()
         self.get_player_name()
