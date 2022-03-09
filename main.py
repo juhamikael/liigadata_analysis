@@ -5,6 +5,7 @@ from liiga_function_library import fetch_games_data, return_results, return_team
 from liiga_function_library import write_files, return_league_table
 from teams import team_dict, team_dict_lower
 from classes import CMD_Program, Teams, Players
+from database_connection import Database_connection
 import json
 from ffcount import ffcount
 
@@ -19,7 +20,9 @@ start_ui = 0
 teams_class = Teams()
 teams_list = teams_class.return_all_teams_as_list()
 players = Players()
+all_teams_db = Database_connection()
 players_list = players.get_player_data_files()
+
 ####################################################
 
 
@@ -104,7 +107,6 @@ for x in team_dict_lower:
         if team_result_data[ind]['results']['name'] == x:
             team_dict_lower[x]['results'] = team_result_data[ind]['results']
 
-
 for x in team_dict_lower:
     for index in range(len(players_list)):
         if players_list[index]["team"] == x:
@@ -117,9 +119,11 @@ for i in teams_list:
     team_dict_lower[i]["results"].pop("name")
 
 
+# all_teams_db.insert_teams_json()
+all_teams_db.get_collections()
+
 if write_data_files != 0:
     write_files(team_dict_lower, teams_list)
-
 # WORK IN PROGRESS
 if start_ui != 0:
     start_program = CMD_Program(team_dict_lower)
